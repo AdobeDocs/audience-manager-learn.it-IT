@@ -13,39 +13,39 @@ level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
 source-git-commit: 4adaade180545bcf5f911b7453a7e9939e2ed178
 workflow-type: tm+mt
-source-wordcount: '586'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
 
 # Migrazione dal server di tracciamento all’inoltro lato server a livello di suite di rapporti {#migrating-from-tracking-server-to-report-suite-level-server-side-forwarding}
 
-Questo articolo e video illustra come abilitare l’inoltro lato server di [!DNL Analytics] Dati da Audience Manager in un [!UICONTROL report suite] livello invece di a [!UICONTROL tracking server] livello.
+In questo articolo e in questo video verrà illustrato come abilitare l&#39;inoltro lato server dei dati [!DNL Analytics] per l&#39;Audience Manager a livello [!UICONTROL report suite] anziché a livello [!UICONTROL tracking server].
 
 ## Introduzione {#introduction}
 
-Se disponi di Adobe Audience Manager E Adobe Analytics, puoi implementare l’inoltro lato server del [!DNL Analytics] dati di Audience Manager. Questo significa che, invece di inviare due hit dalla pagina (uno a [!DNL Analytics] e uno ad Audience Manager), può inviare un hit a [!DNL Analytics], e [!DNL Analytics] inoltra tali dati ad Audience Manager.
+Se si dispone di Adobe Audience Manager AND Adobe Analytics, è possibile implementare l&#39;inoltro lato server dei dati [!DNL Analytics] ad Audience Manager. Questo significa che, invece di inviare due hit (uno a [!DNL Analytics] e uno a Audience Manager), la pagina può inviare un hit a [!DNL Analytics] e [!DNL Analytics] inoltrerà tali dati a Audience Manager.
 
-Se disponi già di questa funzionalità operativa e se era abilitata/implementata prima di ottobre 2017, l’inoltro lato server potrebbe essere basato su [!UICONTROL Tracking Server], che doveva essere abilitato dall’Assistenza clienti Adobe o dalla consulenza Adobe. A partire da ottobre 2017, è ora possibile configurare autonomamente l’inoltro lato server e a livello di suite di rapporti (inoltro per suite di rapporti). Questo comporta vantaggi significativi, che vengono discussi di seguito.
+Se disponi già di questo elemento in esecuzione e se lo avevi abilitato/implementato prima di ottobre 2017, l&#39;inoltro lato server potrebbe essere basato su [!UICONTROL Tracking Server], che doveva essere abilitato da Adobe Customer Care o Adobe Consulting. A partire da ottobre 2017, è ora possibile configurare autonomamente l’inoltro lato server e a livello di suite di rapporti (inoltro per suite di rapporti). Questo comporta vantaggi significativi, che vengono discussi di seguito.
 
-## [!UICONTROL Tracking server] inoltro {#tracking-server-forwarding}
+## Inoltro di [!UICONTROL Tracking server] {#tracking-server-forwarding}
 
-Il tuo [!UICONTROL tracking server] è la posizione in cui stai inviando il tuo [!DNL Analytics] e anche il dominio in cui vengono scritti la richiesta di immagine e il cookie. Deve essere impostato in DTM o [!DNL Experience Platform Launch], o nella [!DNL AppMeasurement.js] , e avrà in genere questo aspetto, con il tuo sito o la tua ragione sociale che sostituisce &quot;miosito&quot;:
+[!UICONTROL tracking server] è la posizione in cui si inviano i dati di [!DNL Analytics] e il dominio in cui vengono scritti la richiesta di immagine e il cookie. Deve essere impostato in DTM o [!DNL Experience Platform Launch] oppure nel file [!DNL AppMeasurement.js] e avrà in genere questo aspetto, con il nome del sito o dell&#39;azienda che sostituisce &quot;miosito&quot;:
 
 `s.trackingServer = "mysite.sc.omtrdc.net";`
 
-Se l&#39;inoltro lato server è configurato per l&#39;inoltro a [!UICONTROL tracking server] livello, qualsiasi hit inviato a questo [!UICONTROL tracking server] (SE è abilitato anche il servizio ID Experience Cloud) verrà inoltrato ad Audience Manager. Questo doveva essere abilitato dall’Assistenza clienti Adobe o dalla consulenza Adobe. Sono anche quelli che possono disattivarlo, DOPO che sei passato a [!UICONTROL report suite] inoltro, come descritto di seguito.
+Se l&#39;inoltro lato server è configurato per l&#39;inoltro al livello [!UICONTROL tracking server], qualsiasi hit inviato a questo [!UICONTROL tracking server] (SE è abilitato anche il servizio ID Experience Cloud) verrà inoltrato ad Audience Manager. Questo doveva essere abilitato dall’Assistenza clienti Adobe o da Adobe Consulting. Sono anche gli utenti che possono disabilitarlo, DOPO il passaggio all&#39;inoltro [!UICONTROL report suite], come descritto di seguito.
 
-Se non è sicuro se [!DNL tracking server forwarding] è abilitato per te, contatta l’Assistenza clienti Adobe o il servizio di consulenza Adobe e dovrebbe essere in grado di dirtelo.
+Se non sei sicuro se [!DNL tracking server forwarding] è abilitato, contatta l&#39;Assistenza clienti Adobe o Adobe Consulting, che dovrebbero essere in grado di comunicarti.
 
-## [!UICONTROL Report-suite]Inoltro lato server {#report-suite-level-server-side-forwarding}
+## Inoltro lato server a livello di [!UICONTROL Report-suite] {#report-suite-level-server-side-forwarding}
 
-Uno dei principali vantaggi del passaggio a [!UICONTROL report suite] inoltro da [!UICONTROL tracking server] L’inoltro consiste nella possibilità di utilizzare &quot;Audience Analytics&quot;, che è la possibilità di inoltrare Audience Manager. [!UICONTROL segments] torna ad Adobe Analytics per un’analisi dettagliata dei segmenti. Questa funzione eccezionale NON è supportata se si è ancora in [!UICONTROL tracking server] inoltro e non [!UICONTROL report suite] inoltro. Ulteriori informazioni sull’Audience Analytics sono disponibili in [documentazione](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Uno dei principali vantaggi del passaggio all&#39;inoltro [!UICONTROL report suite] dall&#39;inoltro [!UICONTROL tracking server] è la possibilità di utilizzare &quot;Audience Analytics&quot;, ovvero la possibilità di inoltrare nuovamente l&#39;Audience Manager [!UICONTROL segments] in Adobe Analytics per l&#39;analisi dettagliata dei segmenti. Questa funzionalità avanzata NON è supportata se si è ancora in fase di inoltro [!UICONTROL tracking server] e non di inoltro [!UICONTROL report suite]. Per ulteriori informazioni su Audience Analytics, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 
 ## Suggerimento importante {#additional-resources}
 
-Come indicato nel video precedente, una volta che hai tutte le [!UICONTROL report suites] impostato per inoltrare a Audience Manager, contatta l’Assistenza clienti o la Consulenza di Adobe Adobe e disattiva l’opzione [!UICONTROL tracking server] inoltro. Non è un&#39;emergenza per te fare questo, perché avere entrambi [!UICONTROL tracking server] inoltro e [!UICONTROL report suite] l’inoltro non genera hit duplicati. Tuttavia, è buona prassi disporre solo di [!UICONTROL report suite] inoltro in data.
+Come indicato nel video precedente, una volta che hai impostato tutti i [!UICONTROL report suites] da inoltrare a Audience Manager, devi contattare l&#39;Assistenza clienti Adobe o Adobe Consulting e farli disabilitare l&#39;inoltro di [!UICONTROL tracking server]. Questa operazione non rappresenta un&#39;emergenza, perché l&#39;inoltro di [!UICONTROL tracking server] e l&#39;inoltro di [!UICONTROL report suite] non generano hit duplicati. Tuttavia, è consigliabile avere solo l&#39;inoltro [!UICONTROL report suite] su.
 
-Se esci [!UICONTROL tracking server] inoltro in data, non solo potrebbe inoltrare dati da [!UICONTROL report suites] che non desideri essere inoltrato, ma in futuro, dopo che avrai dimenticato (e tutti coloro che lavorano nella tua azienda) che [!UICONTROL tracking server] inoltro è attivo, potresti pensare che i dati non vengano inoltrati per un [!UICONTROL report suite]. Questo perché non è attivato a livello di suite di rapporti, ma i dati vengono comunque inoltrati a causa del [!UICONTROL tracking server]. In questo modo, perderai tempo e denaro per capire perché inoltra e paga le chiamate al server AAM che non ti aspettavi. Quindi, è una buona idea disattivare [!UICONTROL tracking server] inoltro non appena si dispone di tutte le [!UICONTROL report suites] è stata impostata per inoltrare i contenuti in base alle esigenze aziendali.
+Se si lascia in [!UICONTROL tracking server] l&#39;inoltro, non solo potrebbe inoltrare i dati da [!UICONTROL report suites] che non si desidera inoltrare, ma in futuro, dopo che l&#39;utente (e tutti coloro che fanno parte della società) hanno dimenticato che l&#39;inoltro di [!UICONTROL tracking server] è attivo, si potrebbe pensare che i dati non vengano inoltrati per un [!UICONTROL report suite] specifico. Questo perché non è attivato a livello di suite di rapporti, ma i dati vengono comunque inoltrati a causa di [!UICONTROL tracking server]. In questo modo, perderai tempo e denaro per capire perché inoltra e paga le chiamate al server AAM che non ti aspettavi. È quindi consigliabile disattivare l&#39;inoltro di [!UICONTROL tracking server] non appena tutti i [!UICONTROL report suites] sono impostati per l&#39;inoltro, in base alle esigenze aziendali.

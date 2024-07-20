@@ -13,14 +13,14 @@ level: Experienced
 exl-id: 99ec723a-dd56-4355-a29f-bd6d2356b402
 source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
 
 # Best practice per l’invio di dati all’AAM sulle pagine dell’SPA {#using-best-practices-on-spa-pages-when-sending-data-to-aam}
 
-Questo documento descrive diverse best practice per l’invio di dati da applicazioni a pagina singola (SPA) a Adobe Audience Manager (AAM). Questo articolo si concentra sull’utilizzo di [!UICONTROL Experience Platform tags], il metodo di implementazione consigliato.
+Questo documento descrive diverse best practice per l’invio di dati da applicazioni a pagina singola (SPA) a Adobe Audience Manager (AAM). Questo articolo si concentra sull&#39;utilizzo di [!UICONTROL Experience Platform tags], il metodo di implementazione consigliato.
 
 ## Note iniziali
 
@@ -38,10 +38,10 @@ Questo documento descrive diverse best practice per l’invio di dati da applica
 
 Due dei metodi più comuni per attivare una regola nei tag Platform (e quindi inviare i dati ad Audience Manager) sono:
 
-* Impostazione di eventi personalizzati JavaScript (vedi esempio [QUI](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html) con Adobe Analytics)
-* Utilizzo di un [!UICONTROL Direct Call Rule]
+* Impostazione di eventi personalizzati di JavaScript (vedi l&#39;esempio [QUI](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html) con Adobe Analytics)
+* Utilizzo di [!UICONTROL Direct Call Rule]
 
-In questo Audience Manager, utilizzi un’ [!UICONTROL Direct Call rule] nei tag di Platform per attivare l’hit in Audience Manager. Come vedrai nelle sezioni successive, questo diventa utile impostando il [!UICONTROL Data Layer] a un nuovo valore, in modo che possa essere raccolto da [!UICONTROL Data Element] nei tag di Platform.
+In questo Audience Manager, utilizzi un [!UICONTROL Direct Call rule] nei tag Platform per attivare l&#39;hit che va in Audience Manager. Come vedrai nelle sezioni successive, questo diventa utile impostando [!UICONTROL Data Layer] su un nuovo valore, in modo che possa essere rilevato da [!UICONTROL Data Element] nei tag di Platform.
 
 ## Pagina demo {#demo-page}
 
@@ -49,18 +49,18 @@ Questa è una piccola pagina che dimostra come modificare un valore nel livello 
 
 ## Impostazione del livello dati {#setting-the-data-layer}
 
-Come accennato, quando un nuovo contenuto viene caricato sulla pagina o quando qualcuno esegue un’azione sul sito, il livello dati deve essere impostato dinamicamente nell’intestazione della pagina PRIMA che i tag di Platform vengano chiamati ed esegue [!UICONTROL rules], in modo che i tag Platform possano raccogliere i nuovi valori dal livello dati e inviarli in Audience Manager.
+Come accennato, quando un nuovo contenuto viene caricato sulla pagina o quando qualcuno esegue un&#39;azione sul sito, il livello dati deve essere impostato dinamicamente nell&#39;intestazione della pagina PRIMA che i tag di Platform vengano chiamati ed esegua [!UICONTROL rules], in modo che i tag di Platform possano raccogliere i nuovi valori dal livello dati e inviarli all&#39;Audience Manager.
 
 Se vai al sito demo elencato sopra e osservi la sorgente della pagina, vedrai:
 
 * Il livello dati si trova nella parte superiore della pagina, prima della chiamata ai tag di Platform
-* Il codice JavaScript nel collegamento SPA simulato cambia il [!UICONTROL Data Layer], quindi chiama i tag di Platform (il `_satellite.track()` chiamata). Se stavi utilizzando eventi personalizzati JavaScript invece di questo [!UICONTROL Direct Call Rule], la lezione è la stessa. Modifica prima il [!DNL data layer], quindi chiama i tag di Platform.
+* Il JavaScript nel collegamento SPA simulato modifica [!UICONTROL Data Layer], quindi chiama i tag di Platform (chiamata `_satellite.track()`). Se si utilizzano eventi personalizzati di JavaScript invece di [!UICONTROL Direct Call Rule], la lezione è la stessa. Modificare [!DNL data layer], quindi chiamare i tag di Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23322/?quality=12)
 
 ## Risorse aggiuntive {#additional-resources}
 
-* [Discussione dell&#39;SPA sui forum di Adobe](https://forums.adobe.com/thread/2451022)
+* [Discussione SPA nei forum di Adobe](https://forums.adobe.com/thread/2451022)
 * [Architettura di riferimento per mostrare come implementare SPA nei tag di Platform](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)
-* [Best practice per il tracciamento dell’SPA in Adobe Analytics](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html)
+* [Best practice per il monitoraggio dell&#39;SPA in Adobe Analytics](https://helpx.adobe.com/analytics/kt/using/spa-analytics-best-practices-feature-video-use.html)
 * [Sito demo utilizzato per questo articolo](https://aam.enablementadobe.com/SPA-Launch.html)

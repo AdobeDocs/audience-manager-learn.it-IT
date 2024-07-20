@@ -1,5 +1,5 @@
 ---
-title: Creare un’origine dati per i dati di Analytics
+title: Creazione di un Source dati per i dati di Analytics
 description: Scopri come creare un’origine dati per i dati provenienti in tempo reale da una soluzione di analisi quale Adobe Analytics. Esegui questa operazione prima di creare caratteristiche per i dati di analisi.
 landing-page-description: Scopri come creare un’origine dati per i dati provenienti in tempo reale da una soluzione di analisi quale Adobe Analytics. Esegui questa operazione prima di creare caratteristiche per i dati di analisi.
 short-description: Scopri come creare un’origine dati per i dati provenienti in tempo reale da una soluzione di analisi quale Adobe Analytics. Esegui questa operazione prima di creare caratteristiche per i dati di analisi.
@@ -16,8 +16,8 @@ ht-degree: 68%
 
 ---
 
-# Creare un [!UICONTROL Data Source] per [!DNL Analytics] Dati {#create-a-data-source-for-analytics-data}
+# Crea [!UICONTROL Data Source] per i dati [!DNL Analytics] {#create-a-data-source-for-analytics-data}
 
-Questo video illustra i passaggi, inclusi suggerimenti e trucchi, della creazione di una [!UICONTROL Data Source] nell’Audience Manager che puoi utilizzare per i dati provenienti in tempo reale da una soluzione di analisi come Adobe Analytics. Questa operazione deve essere eseguita prima di creare caratteristiche per i dati di analisi.
+Questo video illustra i passaggi, inclusi suggerimenti e trucchi, della creazione di un [!UICONTROL Data Source] in un Audience Manager che puoi utilizzare per i dati provenienti in tempo reale da una soluzione di analisi come Adobe Analytics. Questa operazione deve essere eseguita prima di creare caratteristiche per i dati di analisi.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27329/?quality=12)

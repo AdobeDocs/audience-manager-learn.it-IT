@@ -13,15 +13,15 @@ level: Beginner
 exl-id: 9cc3e0f6-cf68-4048-a34c-513b77777aa2
 source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
 # Utilizza setCustomerIDs() per acquisire e aggiungere hash ai dati PII come ID dichiarato
 
-Questo video spiega perché e come utilizzare il servizio ID Experience Cloud `setCustomerIDs()` metodo per acquisire e aggiungere hash a un indirizzo e-mail e per utilizzarlo come ID dichiarato. Questo non solo collega l’ID del sistema di gestione delle relazioni con i clienti all’indirizzo e-mail, ma li sincronizza anche con l’UUID di Adobe Audience Manager, ad esempio l’ID dispositivo anonimo. Questi indirizzi e-mail con hash possono quindi essere inviati a Destinazioni basate su persone.
+Questo video spiega perché e come utilizzare il metodo `setCustomerIDs()` del servizio ID Experience Cloud per acquisire e aggiungere hash a un indirizzo e-mail e per utilizzarlo come ID dichiarato. Questo non solo collega l’ID del sistema di gestione delle relazioni con i clienti all’indirizzo e-mail, ma li sincronizza anche con l’UUID di Adobe Audience Manager, ad esempio l’ID dispositivo anonimo. Questi indirizzi e-mail con hash possono quindi essere inviati a Destinazioni basate su persone.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 
-Per ulteriori informazioni, visitare il [documentazione](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html).
+Per ulteriori informazioni, visita la [documentazione](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html).

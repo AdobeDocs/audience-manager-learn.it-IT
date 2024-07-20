@@ -12,14 +12,14 @@ level: Beginner
 exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
 source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
 # Video ed esercitazioni sulle destinazioni basate su persone
 
-Le destinazioni basate su persone consentono di applicare la segmentazione ai dati online e offline per creare segmenti di pubblico in base a identificatori con hash, come indirizzi e-mail. Quindi, puoi inviare questi segmenti a piattaforme di social network come [!DNL Facebook] o [!DNL LinkedIn], dove puoi indirizzare il pubblico.
+Le destinazioni basate su persone consentono di applicare la segmentazione ai dati online e offline per creare segmenti di pubblico in base a identificatori con hash, come indirizzi e-mail. Quindi puoi inviare questi segmenti a piattaforme social come [!DNL Facebook] o [!DNL LinkedIn], dove puoi indirizzarli al tuo pubblico.
 
 Questa sezione contiene video e tutorial su argomenti relativi alle destinazioni basate su persone. Sono state elencate di proposito in questo ordine, mentre procedi attraverso il flusso/processo di configurazione delle destinazioni basate sulle persone:
 
@@ -33,4 +33,4 @@ Questa sezione contiene video e tutorial su argomenti relativi alle destinazioni
 * [Creare e configurare destinazioni basate su persone](create-and-configure-people-based-destinations.md)
 * [Comprendere e configurare la destinazione basata su Persone di LinkedIn](understanding-and-configuring-the-linkedin-pbd.md)
 
-Questi video possono essere utilizzati insieme al [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+Questi video possono essere utilizzati insieme alla [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).

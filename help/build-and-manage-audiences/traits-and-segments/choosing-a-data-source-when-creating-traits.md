@@ -1,6 +1,6 @@
 ---
 title: Scegli un’origine dati durante la creazione delle caratteristiche
-description: Uno dei campi importanti da compilare quando si creano le caratteristiche è il campo Origine dati. Ottieni suggerimenti sulla scelta dell’origine dati giusta per le caratteristiche basate su regole e onboarded.
+description: Uno dei campi importanti da compilare durante la creazione delle caratteristiche è il campo Source dati. Ottieni suggerimenti sulla scelta dell’origine dati giusta per le caratteristiche basate su regole e onboarded.
 feature: Traits
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Scegli un’origine dati durante la creazione delle caratteristiche
 
-Uno dei campi importanti da compilare quando si creano le caratteristiche è il [!UICONTROL Data Source] campo. Ottieni suggerimenti sulla scelta dell’origine dati giusta per le caratteristiche basate su regole e onboarded.
+Uno dei campi importanti da compilare durante la creazione delle caratteristiche è il campo [!UICONTROL Data Source]. Ottieni suggerimenti sulla scelta dell’origine dati giusta per le caratteristiche basate su regole e onboarded.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326660/?quality=12&learn=on)

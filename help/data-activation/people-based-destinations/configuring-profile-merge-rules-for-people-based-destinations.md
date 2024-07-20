@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Configura [!UICONTROL Profile Merge Rules] per destinazioni basate su persone
+# Configura [!UICONTROL Profile Merge Rules] per le destinazioni basate su persone
 
-Questo video spiega come impostare una [!UICONTROL Profile Merge Rule] da utilizzare per le destinazioni basate su persone, incluso quando utilizzare una nuova opzione multi-dispositivo.
+In questo video, scopri come impostare un [!UICONTROL Profile Merge Rule] da utilizzare per le destinazioni basate su persone, compreso quando utilizzare una nuova opzione multi-dispositivo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29076/?quality=12)

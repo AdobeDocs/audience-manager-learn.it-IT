@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Acquisire dati PII con hash per destinazioni basate su persone
 
-In questo video, scopri come formattare una sincronizzazione ID basata su file per collegare gli ID cliente (ID CRM) con indirizzi e-mail con hash. Questo ti consente di inviare gli indirizzi e-mail con hash alle destinazioni basate su persone, come [!DNL Facebook].
+In questo video, scopri come formattare una sincronizzazione ID basata su file per collegare gli ID cliente (ID CRM) con indirizzi e-mail con hash. In questo modo potrai inviare gli indirizzi e-mail con hash alle destinazioni basate su persone, come [!DNL Facebook].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)

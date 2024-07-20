@@ -1,35 +1,35 @@
 ---
 user-guide-title: Tutorial su Adobe Audience Manager
 user-guide-description: Una raccolta di video e tutorial su Adobe Analytics.
-breadcrumb-title: Audience Manager Tutorials
+breadcrumb-title: Tutorial su Audience Manager
 solution: Audience Manager
 type: Tutorial
 source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '966'
-ht-degree: 3%
+source-wordcount: '895'
+ht-degree: 2%
 
 ---
 
 
-# Audience Manager Tutorials {#tutorials}
+# Tutorial su Audience Manager {#tutorials}
 
 + [Esercitazioni di Audience Manager](overview.md)
-+ Introduzione all’Audience Manager {#intro-to-audience-manager}
++ Introduzione all&#39;Audience Manager {#intro-to-audience-manager}
    + [Come un DMP può cambiare il tuo business](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
    + [Audience Manager: panoramica di un DMP](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
    + [Casi d’uso di Audience Manager](intro-to-audience-manager/audience-manager-use-cases.md)
    + [Comprendere termini e concetti di base](intro-to-audience-manager/understanding-basic-terms-and-concepts-in-audience-manager.md)
    + [Comprendere il flusso di dati in Audience Manager](intro-to-audience-manager/understanding-the-data-flow-in-audience-manager.md)
    + [Introduzione all’identità in Audience Manager](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
-   + Realizzazione del valore {#value-realization}
+   + Realizzazione valore {#value-realization}
       + [Misurazione del ROI in un caso d’uso di eliminazione del cliente](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
 + Novità e tendenze di settore {#industry}
    + [Il futuro della gestione dei dati e l&#39;ambiente in evoluzione](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html)
    + [10 considerazioni sulla gestione responsabile dei dati dei clienti](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
    + [Un racconto di due percezioni: marchi e consumatori](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
    + [Evoluzione del centro di eccellenza del pubblico](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
-   + [Creare esperienze migliori con i profili dei clienti](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
+   + [Creazione di esperienze migliori con i profili cliente](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
 + Configurazione e amministrazione {#setup-and-admin}
    + Origini dati {#data-sources}
       + [Creare un’origine dati per i dati di Analytics](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
@@ -46,7 +46,7 @@ ht-degree: 3%
    + DIL (Data Integration Library) {#dil}
       + [Aggiornamento a DIL versione 8.0 (o successiva)](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
    + SSF (inoltro lato server) {#ssf}
-      + [Utilizzare i tag Experience Platform per implementare nei siti Web](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
+      + [Utilizza tag di Experience Platform per implementare nei siti Web](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
       + [Migrazione dell’implementazione AAM del sito da DIL lato client a inoltro lato server](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
       + [Migrazione dal server di tracciamento all’inoltro lato server a livello di suite di rapporti](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
    + [Utilizzare i gestori di tag per implementare Audience Manager](web-implementation/using-tag-managers-to-implement-audience-manager.md)
@@ -57,17 +57,17 @@ ht-degree: 3%
    + [Passaggi per l’acquisizione di dati basati su file](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Implementazione mobile {#mobile-implementation}
    + [Implementazione nelle applicazioni iOS Swift](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
-   + [Implementazione nelle applicazioni iOS Objective-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
+   + [Implementazione nelle applicazioni Objective-C di iOS](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
    + [Implementazione nelle applicazioni Android](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
 + Audience Marketplace {#audience-marketplace}
-   + Dati di acquisto {#buying-data}
+   + Acquisto dei dati {#buying-data}
       + [Reporting dell’utilizzo di dati di seconde e terze parti in Audience Marketplace a livello di segmento](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
       + [Utilizzo dei dati per il caricamento in blocco in Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
       + [Utilizza filtri e consigli per scegliere dati di terze parti in Audience Marketplace](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
    + Dati di vendita {#selling-data}
       + [Commercializzare i tipi di pubblico di proprietà sul Marketplace](audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.md)
-+ Creare e gestire i tipi di pubblico {#build-and-manage-audiences}
-   + Data Explorer {#data-explorer}
++ Crea e gestisci tipi di pubblico {#build-and-manage-audiences}
+   + Esplora dati {#data-explorer}
       + [Utilizza il dashboard Segnali per visualizzare rapidamente i primi segnali disponibili](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
       + [Utilizza Data Explorer per cercare coppie chiave/valore utilizzate e non utilizzate](build-and-manage-audiences/data-explorer/using-data-explorer-to-search-for-used-and-unused-key-value-pairs.md)
       + [Salva le ricerche in Data Explorer per un comodo riutilizzo](build-and-manage-audiences/data-explorer/saving-searches-in-data-explorer-for-convenience-in-re-use.md)
@@ -103,14 +103,14 @@ ht-degree: 3%
       + [Suggerimenti dei clienti: best practice per caratteristiche e segmenti](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
    + Modelli algoritmici {#algorithmic-models}
       + [Predictive Audiences](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
-      + [Configurare e generare rapporti su [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
+      + [Configura e genera rapporti su [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
       + [Creare un modello lookalike di prime parti](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
       + [Escludere le caratteristiche nei modelli algoritmici (similari)](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
       + [Aumentare il ROAS utilizzando modelli algoritmici (simili)](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)
       + [Utilizzo di modelli lookalike per estendere l’inventario esaurito dai dati di prime parti](build-and-manage-audiences/algorithmic-models/using-look-alike-models-to-extend-sold-out-inventory-from-your-1st-party-data.md)
    + Unione profili {#profile-merge}
       + [Regole di unione profili](build-and-manage-audiences/profile-merge/profile-merge.md)
-      + [Overview of Profile Merge Rules](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)
+      + [Panoramica delle regole di unione profili](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)
       + [Esempi di regole di unione profili e casi d’uso](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)
       + [Scegli la regola di unione profili corretta](build-and-manage-audiences/profile-merge/choosing-the-right-profile-merge-rule.md)
       + [Creare e utilizzare semplici regole di unione profili](build-and-manage-audiences/profile-merge/creating-and-using-simple-profile-merge-rules.md)
@@ -150,7 +150,7 @@ ht-degree: 3%
    + [Utilizzare rapporti di Audience Optimization per comprendere le prestazioni dei contenuti multimediali](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + Altre integrazioni {#other-integrations}
    + Integrare con Real-time Customer Data Platform {#integrating-with-rtcdp}
-      + [Acquisire dati utilizzando il connettore dati Adobe Audience Manager](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
+      + [Acquisire dati utilizzando il connettore dati di Adobe Audience Manager](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
       + [Acquisizione di dati di prime parti in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
       + [Acquisizione di dati web in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
       + [Comprendere gli schemi e XDM in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-schemas-xdm-for-aam-users.md)

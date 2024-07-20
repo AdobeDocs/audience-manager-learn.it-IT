@@ -13,7 +13,7 @@ level: Intermediate
 exl-id: 620d4ef6-05ec-4d96-842e-919c6ec402d9
 source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ Scopri come utilizzare i rapporti di Audience Optimization per migliorare le cam
 
 >[!VIDEO](https://video.tv.adobe.com/v/330401/?quality=12&learn=on)
 
-Per ulteriori informazioni, vedere [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-reports.html#reporting).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-reports.html#reporting).

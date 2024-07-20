@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Scelta della destra [!UICONTROL Profile Merge Rule]
+# Scelta di [!UICONTROL Profile Merge Rule] a destra
 
-In questo video, scopri tre dei casi d’uso più comuni per [!UICONTROL Profile Merge Rules]e come possono essere utili per le attività di marketing.
+In questo video, scopri tre dei casi d&#39;uso più comuni per [!UICONTROL Profile Merge Rules] e come possono esserti utili per le attività di marketing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37908/?quality=12&learn=on)

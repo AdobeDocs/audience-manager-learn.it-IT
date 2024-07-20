@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Creare e utilizzare semplici [!UICONTROL Profile Merge Rules]
+# Crea e utilizza [!UICONTROL Profile Merge Rules] semplice
 
-Informazioni su [!UICONTROL Profile Merge Rules] e come assegnarli ai segmenti. Scopri le impostazioni predefinite [!UICONTROL Current Device] e quando può e deve essere utilizzato.
+Scopri [!UICONTROL Profile Merge Rules] e come assegnarli ai segmenti. Scopri il profilo [!UICONTROL Current Device] predefinito e quando può e deve essere utilizzato.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35937/?quality=12&learn=on)

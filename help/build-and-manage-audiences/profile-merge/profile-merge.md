@@ -12,8 +12,8 @@ level: Intermediate
 exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
 source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 3%
+source-wordcount: '152'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 3%
 
 Visualizza i video e i tutorial sulle funzioni di unione profili, incluse le regole di unione profili. Ottieni il controllo sui set di dati utilizzati per la segmentazione e indirizza con precisione una persona su più dispositivi.
 
-* [Overview of Profile Merge Rules](overview-of-profile-merge-rules.md)
+* [Panoramica delle regole di unione profili](overview-of-profile-merge-rules.md)
 * [Esempi e casi d’uso delle regole di unione profili](profile-merge-rule-examples-and-use-cases.md)
 * [Panoramica dei miglioramenti apportati alle regole di unione profili](overview-of-profile-merge-rule-enhancements.md)
 * [Creare e utilizzare semplici regole di unione profili](creating-and-using-simple-profile-merge-rules.md)
@@ -32,4 +32,4 @@ Visualizza i video e i tutorial sulle funzioni di unione profili, incluse le reg
 * [Interpretare i rapporti di Audience Identity](interpret-audience-identity-reporting.md)
 * [Comprendere le metriche tra dispositivi in Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-Questi video possono essere utilizzati insieme al [Documentazione sulle regole di unione profili](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
+Questi video possono essere utilizzati insieme alla [documentazione sulle regole di unione profili](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
