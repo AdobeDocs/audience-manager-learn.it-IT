@@ -1,25 +1,22 @@
 ---
-title: Supporto IAB TCF 2.0
+title: Supporto IAB TCF 2.2
 description: Scopri il plug-in di Audience Manager per IAB TCF e come funziona con l’oggetto opt-in di Adobe e il tuo provider di gestione del consenso (CMP).
 feature: Data Governance & Privacy
-activity: implement
-doc-type: technical video
-team: Technical Marketing
 thumbnail: 26434.jpg
 kt: 5027
 role: Developer, Data Engineer, Architect
 level: Experienced
 exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: f9708e705d95b43084ff11e342dc54ff11d6326c
 workflow-type: tm+mt
 source-wordcount: '1059'
 ht-degree: 0%
 
 ---
 
-# Supporto IAB TCF 2.0 in Audience Manager {#iab-tcf-support-in-audience-manager}
+# Supporto IAB TCF 2.2 in Audience Manager {#iab-tcf-support-in-audience-manager}
 
-Adobe consente di gestire e comunicare le scelte degli utenti in materia di privacy tramite la funzionalità Opt-in e il supporto del plug-in Audience Manager per IAB Transparency and Consent Framework 2.0 (TCF 2.0). Questo articolo funziona insieme alla documentazione per aiutarti a comprendere il plug-in di Audience Manager in IAB TCF e come funziona con l’oggetto Opt-in di Adobe e il tuo provider di gestione dei consensi (CMP). Per ulteriori informazioni su IAB, visitare il sito Web all&#39;indirizzo [https://www.iabeurope.eu/](https://www.iabeurope.eu/).
+Adobe consente di gestire e comunicare le scelte degli utenti in materia di privacy tramite la funzionalità Opt-in e il supporto del plug-in di Audience Manager per IAB Transparency and Consent Framework 2.2 (TCF 2.2). Questo articolo funziona insieme alla documentazione per aiutarti a comprendere il plug-in di Audience Manager in IAB TCF e come funziona con l’oggetto Opt-in di Adobe e il tuo provider di gestione dei consensi (CMP). Per ulteriori informazioni su IAB, visitare il sito Web all&#39;indirizzo [https://www.iabeurope.eu/](https://www.iabeurope.eu/).
 
 ## Primo passaggio: comprendere l’opt-in dell’ID Experience Cloud {#first-step-understand-ecid-s-opt-in}
 
@@ -29,7 +26,7 @@ Per capire come utilizzare IAB TCF, devi prima comprendere la funzionalità [!DN
 
 Ora che hai almeno una conoscenza di base del funzionamento del servizio Opt-in, Audience Manager può posizionare il supporto su di esso [!DNL IAB Transparency and Consent Framework (TCF)], che viene eseguito tramite un plug-in nell&#39;oggetto Opt-in.
 
-Il plug-in di Audience Manager per IAB TCF estende la funzionalità di Opt-in e consente ai clienti AAM di valutare, rispettare e inoltrare le scelte sulla privacy degli utenti ai partner a valle in conformità con IAB TCF. Fornisce uno standard per i titolari del trattamento dei dati (ossia se sei un cliente Adobe) e i fornitori (DMP, DSP, SSP, Ad Server, ecc.) può utilizzare per comprendere il consenso in tutta l’area del consenso.
+Il plug-in di Audience Manager per IAB TCF estende la funzionalità di Opt-in e consente ai clienti AAM di valutare, rispettare e inoltrare le scelte sulla privacy degli utenti ai partner a valle in conformità con IAB TCF. Fornisce uno standard per i titolari del trattamento dei dati (come Adobe cliente) e i fornitori (DMP, DSP, SSP, Ad Server, ecc.) può utilizzare per comprendere il consenso in tutta l’area del consenso.
 
 ## Abilita IAB TCF {#enabling-iab-tcf}
 
@@ -48,13 +45,13 @@ Uno degli standard che IAB fornisce è una &quot;stringa di consenso&quot; (nota
 
 ### Finalità {#purposes}
 
-Con IAB TCF 2.0, ci sono dieci &quot;scopi&quot; per i quali raccogliere il consenso (cosa possono fare i fornitori con i dati del visitatore). Adobe Audience Manager non richiede tutti i dieci, ma richiede il consenso solo per i seguenti scopi, oltre al consenso del fornitore:
+Con IAB TCF 2.2, ci sono dieci &quot;scopi&quot; per i quali raccogliere il consenso (quello che i fornitori possono fare con i dati del visitatore). Adobe Audience Manager non richiede tutti i dieci, ma richiede il consenso solo per i seguenti scopi, oltre al consenso del fornitore:
 
 * **Scopo 1:** Archiviare e/o accedere a informazioni su un dispositivo;
 * **Scopo 10:** Sviluppare e migliorare i prodotti;
 * **Scopo speciale 1:** Garantire la sicurezza, prevenire le frodi ed eseguire il debug.
 
-Questa è la prima parte della stringa TC IAB ed è appena registrata come 1 e 0, che determina se tale scopo/attività è approvato o meno.
+Questa è la prima parte della stringa TC IAB ed è appena registrata come 1 e 0, che determina se lo scopo/attività viene approvata o meno.
 
 >[!NOTE]
 >
@@ -62,7 +59,7 @@ Questa è la prima parte della stringa TC IAB ed è appena registrata come 1 e 0
 
 ### Fornitori {#vendors}
 
-Un’altra parte della stringa TC IAB è costituita da un lungo elenco di diverse centinaia di fornitori, in modo che ai visitatori possa essere presentato un elenco dei fornitori applicabili che dispongono di tag sul sito e possono scegliere quali fornitori utilizzare. I fornitori mantengono il proprio posto nell&#39;elenco. Ad esempio, il numero del fornitore di Adobe Audience Manager in questo elenco è 565. Se quel numero nell&#39;elenco ha &quot;1&quot;, allora Audience Manager può fare le finalità approvate dalla parte anteriore dell&#39;elenco. Se il punto dell’AAM ha uno &quot;0&quot;, non può fare nulla con i dati.
+Un’altra parte della stringa TC IAB è costituita da un lungo elenco di diverse centinaia di fornitori, in modo che ai visitatori possa essere presentato un elenco dei fornitori applicabili che dispongono di tag sul sito e possono scegliere quali fornitori utilizzare. I fornitori mantengono il proprio posto nell&#39;elenco. Ad esempio, il numero del fornitore Adobe Audience Manager in questo elenco è 565. Se quel numero nell&#39;elenco ha &quot;1&quot;, allora Audience Manager può fare le finalità approvate dalla parte anteriore dell&#39;elenco. Se il punto AAM ha &quot;0&quot;, non può fare nulla con i dati.
 
 **Ad Audience Manager, per fornire ai clienti un&#39;interfaccia utente che consenta loro di utilizzare IAB TCF per scegliere questi scopi e fornitori o per approvare/disapprovare tutte le attività, è necessario utilizzare un partner CMP registrato con IAB TCF o crearne uno che supporti IAB TCF e sia registrato con IAB TCF.**
 
@@ -81,7 +78,7 @@ Quando si utilizza il plug-in di Audience Manager per IAB TCF, le scelte di cons
 * rgpd = 1
 * gdpr_consent = [stringa di consenso codificata]
 
-Bisogna però prestare attenzione: se l’utente si trova nel contesto IAB e non fornisce il consenso (o fornisce un consenso negativo), Audience Manager non raccoglie affatto la stringa TC IAB e, di conseguenza, interrompe le chiamate. Quindi, in quel caso... non si passa il consenso a valle.
+Bisogna però prestare attenzione: se l’utente si trova nel contesto IAB e non fornisce il consenso (o fornisce un consenso negativo), Audience Manager non raccoglie affatto la stringa TC IAB e come tale elimina le chiamate. Quindi, in quel caso... non si passa il consenso a valle.
 
 ## Demo {#demo}
 
@@ -89,4 +86,4 @@ Nel video seguente, scopri in che modo le scelte degli utenti IAB influenzano i 
 
 >[!VIDEO](https://video.tv.adobe.com/v/26434/?quality=12)
 
-Per informazioni più dettagliate sul plug-in di Audience Manager per IAB TCF 2.0, tra cui come implementare e testare, casi d&#39;uso e flusso di lavoro, consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html).
+Per informazioni più dettagliate sul plug-in di Audience Manager per IAB TCF 2.2, tra cui come implementare e testare, casi di utilizzo e flusso di lavoro, consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html).

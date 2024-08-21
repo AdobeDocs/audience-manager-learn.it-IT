@@ -4,7 +4,7 @@ user-guide-description: Una raccolta di video e tutorial su Adobe Analytics.
 breadcrumb-title: Tutorial su Audience Manager
 solution: Audience Manager
 type: Tutorial
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: f9708e705d95b43084ff11e342dc54ff11d6326c
 workflow-type: tm+mt
 source-wordcount: '895'
 ht-degree: 2%
@@ -38,7 +38,7 @@ ht-degree: 2%
       + [Impostare le autorizzazioni con il controllo degli accessi basato sul ruolo](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + Governance dei dati e privacy {#data-governance-and-privacy}
       + [Convalida ID dispositivo globale](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
-      + [Supporto IAB TCF 2.0](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
+      + [Supporto IAB TCF 2.2](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
       + [Offuscamento IP per paese](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)
    + Utilizzo e fatturazione {#usage-and-billing}
       + [Monitorare e creare rapporti sull’utilizzo delle attività](setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.md)
