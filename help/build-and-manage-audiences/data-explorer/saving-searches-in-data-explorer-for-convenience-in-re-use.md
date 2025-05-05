@@ -23,6 +23,6 @@ ht-degree: 0%
 
 In questo video, scopri come configurare una ricerca in [!DNL Data Explorer], eseguirla e quindi salvarla per riutilizzarla in un secondo momento. È inoltre possibile inserire la ricerca salvata nel dashboard in modo che sia immediatamente disponibile quando si accede all&#39;app [!UICONTROL Signals].
 
->[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/36352/?quality=12&captions=ita)
 
 Per ulteriori informazioni su [!UICONTROL Data Explorer], visita [Data Explorer - Panoramica, vantaggi e casi d&#39;uso](https://experiencecloud.adobe.com/resources/help/it_IT/aam/data-explorer.html).

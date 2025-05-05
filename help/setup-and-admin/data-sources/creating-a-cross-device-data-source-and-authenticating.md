@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Quando desideri inserire in Audience Manager i dati CRM di prima parte per eseguire meglio il targeting dei clienti, devi prima creare un’origine dati multi-dispositivo per memorizzare gli ID e i dati del sistema di gestione delle relazioni con i clienti. In questo esempio viene illustrato come eseguire questa operazione e come impostare il metodo `setCustomerIDs()` nei tag di Experience Platform per i login.
 
->[!VIDEO](https://video.tv.adobe.com/v/331006/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346212/?quality=12&learn=on&captions=ita)

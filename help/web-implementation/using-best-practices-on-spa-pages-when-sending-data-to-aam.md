@@ -56,7 +56,7 @@ Se vai al sito demo elencato sopra e osservi la sorgente della pagina, vedrai:
 * Il livello dati si trova nella parte superiore della pagina, prima della chiamata ai tag di Platform
 * Il JavaScript nel collegamento SPA simulato modifica [!UICONTROL Data Layer], quindi chiama i tag di Platform (chiamata `_satellite.track()`). Se si utilizzano eventi personalizzati di JavaScript invece di [!UICONTROL Direct Call Rule], la lezione è la stessa. Modificare [!DNL data layer], quindi chiamare i tag di Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/23322/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/326997/?quality=12&captions=ita)
 
 ## Risorse aggiuntive {#additional-resources}
 

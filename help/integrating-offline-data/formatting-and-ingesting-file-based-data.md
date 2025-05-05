@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Quando inserisci i tuoi dati di prima parte in Audience Manager per capire meglio e indirizzare il cliente, ci sono alcuni requisiti di formattazione per i dati. Questo video illustra alcune delle opzioni principali e mostra dove trovare ulteriori informazioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/331007/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346205/?quality=12&learn=on&captions=ita)
 
 Per un video sulla denominazione e l&#39;importazione dei file, fare clic [QUI](steps-for-ingesting-file-based-data.md).
 

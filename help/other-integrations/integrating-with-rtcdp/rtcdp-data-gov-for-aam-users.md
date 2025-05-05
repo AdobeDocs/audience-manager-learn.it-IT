@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Questo video illustra agli Audienci Manager la funzionalità di governance dei dati in Real-time Customer Data Platform, confrontandola con la funzionalità che era disponibile in Audience Manager. Descrive il framework Data Usage and Labeling Enforcement (DULE) e dove può essere applicato in Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/332123/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410873/?quality=12&learn=on&captions=ita)
 
 ## Risorse aggiuntive
 

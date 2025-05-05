@@ -22,6 +22,6 @@ ht-degree: 0%
 
 Scopri come utilizzare i rapporti di Audience Optimization per migliorare le campagne, e per capire dove investire i fondi di marketing e dove interrompere gli investimenti. Scopri anche come determinare una quota limite ottimale e trovare altri preziosi dati in questi rapporti.
 
->[!VIDEO](https://video.tv.adobe.com/v/330401/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345089/?quality=12&learn=on&captions=ita)
 
 Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-reports.html?lang=it#reporting).

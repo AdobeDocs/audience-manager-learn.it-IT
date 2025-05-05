@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Quando si segnala l&#39;utilizzo di dati di seconde e terze parti in [!UICONTROL Audience Marketplace], è possibile che siano disponibili un numero sufficiente di voci per non eseguire questa operazione manualmente. Questo video spiega come utilizzare lo strumento di caricamento in blocco dei rapporti sull’utilizzo dei dati. Questo strumento ti consente di segnalare facilmente l’utilizzo dei dati, anche se disponi di molti elementi da aggiornare.
 
->[!VIDEO](https://video.tv.adobe.com/v/25521/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/326669/?quality=12&captions=ita)
 
 Oltre a questo strumento di caricamento in blocco per semplificare e risparmiare tempo nella generazione di rapporti sull&#39;utilizzo dei dati, i clienti che acquistano dati di seconde o terze parti da [!UICONTROL Audience Marketplace] possono beneficiare di criteri di attribuzione dei costi migliorati. Questa nuova policy attribuisce i costi ai fornitori di dati in base al numero di utenti univoci delle caratteristiche in un segmento basato su regole, garantendo maggiore trasparenza e una fatturazione dell’utilizzo equa.
 Ulteriori dettagli sull&#39;algoritmo di fatturazione sono disponibili in [Attribuzione costi per feed dati CPM](https://experiencecloud.adobe.com/resources/help/it_IT/aam/marketplace_cpm_billing.html) nella documentazione del prodotto.

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Utilizza [!UICONTROL Profile Merge Rules] per estendere la portata a tutti i dispositivi di un utente, in modo da poter vendere a persone invece che a dispositivi.
 
->[!VIDEO](https://video.tv.adobe.com/v/35939/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40029/?quality=12&learn=on&captions=ita)

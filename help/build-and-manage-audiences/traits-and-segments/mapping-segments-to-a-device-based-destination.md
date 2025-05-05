@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Per inviare un segmento di pubblico a un DSP o a un altro partner, in Audience Manager devi mappare il segmento a una destinazione. Questo video illustra come mappare i segmenti su una destinazione basata su dispositivo, nota anche come destinazione _da server a server_.
 
->[!VIDEO](https://video.tv.adobe.com/v/36495/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41159/?quality=12&learn=on&captions=ita)
