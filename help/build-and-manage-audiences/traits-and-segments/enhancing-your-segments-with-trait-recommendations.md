@@ -26,4 +26,4 @@ Con [!UICONTROL Trait Recommendations], quando si crea o si modifica un segmento
 
 [!UICONTROL Trait Recommendations] lavora sia su dati di prime parti che di terze parti, in modo da poter includere ulteriori [!UICONTROL Traits] consigliati e aumentare il pubblico di destinazione.
 
-Per ulteriori informazioni su questa funzione, visita la [documentazione](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html).
+Per ulteriori informazioni su questa funzione, visita la [documentazione](https://experiencecloud.adobe.com/resources/help/it_IT/aam/trait-recommendations.html).

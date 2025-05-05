@@ -25,11 +25,11 @@ ht-degree: 2%
    + Realizzazione valore {#value-realization}
       + [Misurazione del ROI in un caso d’uso di eliminazione del cliente](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
 + Novità e tendenze di settore {#industry}
-   + [Il futuro della gestione dei dati e l&#39;ambiente in evoluzione](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html)
-   + [10 considerazioni sulla gestione responsabile dei dati dei clienti](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
-   + [Un racconto di due percezioni: marchi e consumatori](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
-   + [Evoluzione del centro di eccellenza del pubblico](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
-   + [Creazione di esperienze migliori con i profili cliente](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
+   + [Il futuro della gestione dei dati e l&#39;ambiente in evoluzione](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html?lang=it)
+   + [10 considerazioni sulla gestione responsabile dei dati dei clienti](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=it)
+   + [Un racconto di due percezioni: marchi e consumatori](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html?lang=it)
+   + [Evoluzione del centro di eccellenza del pubblico](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html?lang=it)
+   + [Creazione di esperienze migliori con i profili cliente](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html?lang=it)
 + Configurazione e amministrazione {#setup-and-admin}
    + Origini dati {#data-sources}
       + [Creare un’origine dati per i dati di Analytics](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
@@ -46,7 +46,7 @@ ht-degree: 2%
    + DIL (Data Integration Library) {#dil}
       + [Aggiornamento a DIL versione 8.0 (o successiva)](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
    + SSF (inoltro lato server) {#ssf}
-      + [Utilizza tag di Experience Platform per implementare nei siti Web](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
+      + [Utilizza tag di Experience Platform per implementare nei siti Web](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=it)
       + [Migrazione dell’implementazione AAM del sito da DIL lato client a inoltro lato server](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
       + [Migrazione dal server di tracciamento all’inoltro lato server a livello di suite di rapporti](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
    + [Utilizzare i gestori di tag per implementare Audience Manager](web-implementation/using-tag-managers-to-implement-audience-manager.md)
@@ -56,9 +56,9 @@ ht-degree: 2%
    + [Formattare e acquisire dati basati su file](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [Passaggi per l’acquisizione di dati basati su file](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Implementazione mobile {#mobile-implementation}
-   + [Implementazione nelle applicazioni iOS Swift](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
-   + [Implementazione nelle applicazioni Objective-C di iOS](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
-   + [Implementazione nelle applicazioni Android](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
+   + [Implementazione nelle applicazioni iOS Swift](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=it)
+   + [Implementazione nelle applicazioni Objective-C di iOS](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=it)
+   + [Implementazione nelle applicazioni Android](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=it)
 + Audience Marketplace {#audience-marketplace}
    + Acquisto dei dati {#buying-data}
       + [Reporting dell’utilizzo di dati di seconde e terze parti in Audience Marketplace a livello di segmento](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
@@ -130,7 +130,7 @@ ht-degree: 2%
       + [Utilizzare le etichette di esportazione dei dati per controllare il flusso di dati](data-activation/destinations-basics/using-data-export-labels-to-control-data-flow.md)
    + Audience Lab {#audience-lab}
       + [Utilizza Audience Lab per scegliere un DSP](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
-      + [Creare caratteristiche di conversione](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html)
+      + [Creare caratteristiche di conversione](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html?lang=it)
    + Destinazioni basate su persone {#people-based-destinations}
       + [Video ed esercitazioni sulle destinazioni basate su persone](data-activation/people-based-destinations/pbd.md)
       + [Flusso di dati per destinazioni basate su persone](data-activation/people-based-destinations/people-based-destinations-data-flow.md)
@@ -150,7 +150,7 @@ ht-degree: 2%
    + [Utilizzare rapporti di Audience Optimization per comprendere le prestazioni dei contenuti multimediali](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + Altre integrazioni {#other-integrations}
    + Integrare con Real-time Customer Data Platform {#integrating-with-rtcdp}
-      + [Acquisire dati utilizzando il connettore dati di Adobe Audience Manager](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
+      + [Acquisire dati utilizzando il connettore dati di Adobe Audience Manager](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=it#sources)
       + [Acquisizione di dati di prime parti in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
       + [Acquisizione di dati web in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
       + [Comprendere gli schemi e XDM in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-schemas-xdm-for-aam-users.md)

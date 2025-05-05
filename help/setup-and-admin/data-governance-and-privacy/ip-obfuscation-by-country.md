@@ -23,4 +23,4 @@ Audience Manager fornisce funzionalità self-service nell’interfaccia utente p
 
 >[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 
-Per ulteriori informazioni su questa funzione, visita la [documentazione](https://experiencecloud.adobe.com/resources/help/en_US/aam/ip-obfuscation.html).
+Per ulteriori informazioni su questa funzione, visita la [documentazione](https://experiencecloud.adobe.com/resources/help/it_IT/aam/ip-obfuscation.html).

@@ -26,4 +26,4 @@ Utilizzando le tabelle integrate e personalizzate in [!UICONTROL Signals Dashboa
 
 Quando si fa clic su fino a [!UICONTROL Data Explorer], ovvero l&#39;app [!UICONTROL Signals], verrà visualizzato un dashboard predefinito dei segnali principali e dei nuovi segnali. Oltre a queste due impostazioni predefinite, puoi salvare le ricerche e aggiungerle al dashboard, in modo da poter visualizzare molto rapidamente i dati più importanti direttamente sulla pagina principale della funzione.
 
-Per ulteriori informazioni su [!UICONTROL Data Explorer], visitare [Data Explorer - Panoramica, vantaggi e casi d&#39;uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)).
+Per ulteriori informazioni su [!UICONTROL Data Explorer], visitare [Data Explorer - Panoramica, vantaggi e casi d&#39;uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=it)).

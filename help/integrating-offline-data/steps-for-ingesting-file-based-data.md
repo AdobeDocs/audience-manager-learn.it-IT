@@ -26,4 +26,4 @@ In questo video, scopri i passaggi da seguire per inserire dati offline in Audie
 
 Per un video sulla formattazione dei dati per i file in entrata, fai clic [QUI](formatting-and-ingesting-file-based-data.md).
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html?lang=it).

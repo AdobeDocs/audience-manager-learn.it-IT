@@ -24,6 +24,6 @@ Questo video illustra i concetti e i passaggi necessari per creare un [!UICONTRO
 
 >[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
-Per ulteriori informazioni, visita la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+Per ulteriori informazioni, visita la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=it).
 
 Sono inoltre disponibili altri video sulle destinazioni basate su persone [QUI](https://adobe.ly/aamlearnpbd).

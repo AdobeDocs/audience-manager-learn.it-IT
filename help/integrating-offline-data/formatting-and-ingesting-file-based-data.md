@@ -26,4 +26,4 @@ Quando inserisci i tuoi dati di prima parte in Audience Manager per capire megli
 
 Per un video sulla denominazione e l&#39;importazione dei file, fare clic [QUI](steps-for-ingesting-file-based-data.md).
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=it&).

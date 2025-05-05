@@ -21,4 +21,4 @@ Questo video ti aiuta a comprendere le percentuali di corrispondenza in Adobe Au
 
 >[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
 
-Per ulteriori informazioni, visita la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html).
+Per ulteriori informazioni, visita la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=it).

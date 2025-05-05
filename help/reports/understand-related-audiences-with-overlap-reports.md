@@ -24,4 +24,4 @@ I rapporti di sovrapposizione consentono di vedere in che modo le caratteristich
 
 >[!VIDEO](https://video.tv.adobe.com/v/330432/?quality=12&learn=on)
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html#reporting).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html?lang=it#reporting).

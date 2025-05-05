@@ -20,7 +20,7 @@ Adobe consente di gestire e comunicare le scelte degli utenti in materia di priv
 
 ## Primo passaggio: comprendere l’opt-in dell’ID Experience Cloud {#first-step-understand-ecid-s-opt-in}
 
-Per capire come utilizzare IAB TCF, devi prima comprendere la funzionalità [!DNL Opt-in], che fa parte della libreria del servizio ID Experience Cloud (ECID). Se non sai come funziona il servizio Opt-in, consulta prima [questo utile articolo](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html). È inoltre necessario rivedere la [documentazione](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/optin-overview.html) di Opt-in. Dopo aver esaminato tali risorse, torna a questa pagina e continua.
+Per capire come utilizzare IAB TCF, devi prima comprendere la funzionalità [!DNL Opt-in], che fa parte della libreria del servizio ID Experience Cloud (ECID). Se non sai come funziona il servizio Opt-in, consulta prima [questo utile articolo](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html?lang=it). È inoltre necessario rivedere la [documentazione](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/optin-overview.html?lang=it) di Opt-in. Dopo aver esaminato tali risorse, torna a questa pagina e continua.
 
 ## Plug-in di Audience Manager per IAB TCF {#the-audience-manager-plug-in-for-iab-tcf}
 
@@ -69,7 +69,7 @@ Uno dei vantaggi dell’utilizzo di IAB TCF è che le finalità standard sopra e
 
 Per poter approvare l&#39;Audience Manager (cioè Affinché la traduzione delle finalità IAB di Opt-in dia il &quot;sì&quot; all&#39;AAM, le finalità 1 e 10, come sopra elencate, devono essere approvate dall&#39;utente finale. Se uno di questi non è approvato, o se un fornitore non è approvato, l&#39;AAM non eseguirà incendi di pixel o non imposterà cookie. È inoltre utile sapere che molti clienti scelgono semplicemente di fornire all’utente finale un’interfaccia utente &quot;tutto o niente&quot;, che consentirebbe o meno l’utilizzo di Audience Manager (e delle altre soluzioni di Experience Cloud).
 
-Nella [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=en) sono disponibili informazioni utili sulle modalità con cui il flusso del plug-in di Audience Manager per IAB TCF si applica sia ai casi di utilizzo di Publisher che agli inserzionisti.
+Nella [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=it) sono disponibili informazioni utili sulle modalità con cui il flusso del plug-in di Audience Manager per IAB TCF si applica sia ai casi di utilizzo di Publisher che agli inserzionisti.
 
 ## IAB: invio del consenso a valle {#iab-sending-consent-downstream}
 
@@ -86,4 +86,4 @@ Nel video seguente, scopri in che modo le scelte degli utenti IAB influenzano i 
 
 >[!VIDEO](https://video.tv.adobe.com/v/26434/?quality=12)
 
-Per informazioni più dettagliate sul plug-in di Audience Manager per IAB TCF 2.2, tra cui come implementare e testare, casi di utilizzo e flusso di lavoro, consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html).
+Per informazioni più dettagliate sul plug-in di Audience Manager per IAB TCF 2.2, tra cui come implementare e testare, casi di utilizzo e flusso di lavoro, consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=it).

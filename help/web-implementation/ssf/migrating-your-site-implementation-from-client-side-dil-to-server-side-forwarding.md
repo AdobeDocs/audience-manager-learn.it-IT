@@ -74,7 +74,7 @@ I passaggi seguenti descrivono l’implementazione.
 
 Il prerequisito principale per passare all&#39;inoltro lato server è l&#39;implementazione del servizio ID Experience Cloud. Questa operazione è più semplice se si utilizza Experienci Platform Launch, nel qual caso è sufficiente installare l’estensione ECID e fare il resto.
 
-Se utilizzi un TMS non Adobe o nessun TMS, implementa ECID per eseguire **prima** di qualsiasi altra soluzione Adobe. Per ulteriori dettagli, consulta la [documentazione ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html). L’unico altro prerequisito è relativo alle versioni del codice, quindi puoi applicare semplicemente le versioni più recenti del codice nei passaggi seguenti.
+Se utilizzi un TMS non Adobe o nessun TMS, implementa ECID per eseguire **prima** di qualsiasi altra soluzione Adobe. Per ulteriori dettagli, consulta la [documentazione ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=it). L’unico altro prerequisito è relativo alle versioni del codice, quindi puoi applicare semplicemente le versioni più recenti del codice nei passaggi seguenti.
 
 >[!NOTE]
 >
@@ -202,4 +202,4 @@ Se non esegui l&#39;inoltro lato server dei dati da [!DNL Analytics] all&#39;Aud
 
 ![falso successo](assets/falsesuccess.png)
 
-Per ulteriori informazioni sull&#39;inoltro lato server, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).
+Per ulteriori informazioni sull&#39;inoltro lato server, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=it).

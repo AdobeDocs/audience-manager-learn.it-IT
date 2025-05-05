@@ -24,4 +24,4 @@ Questo video illustra le opzioni dei filtri e dei consigli in [!UICONTROL Audien
 
 >[!VIDEO](https://video.tv.adobe.com/v/29370/?quality=12)
 
-Per ulteriori informazioni, visita la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html).
+Per ulteriori informazioni, visita la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=it).

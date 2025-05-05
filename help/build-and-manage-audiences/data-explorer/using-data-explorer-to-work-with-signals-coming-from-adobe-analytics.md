@@ -28,4 +28,4 @@ In questo video viene illustrato come utilizzare [!UICONTROL Data Explorer] per 
 
 [!UICONTROL Data Explorer] è stato caricato ed è pronto per aiutarti a vedere cosa proviene da varie suite di rapporti. Quando scopri [!DNL Analytics] segnali non ancora utilizzati nelle caratteristiche, puoi fare clic direttamente su [!DNL Trait Builder] e creare le caratteristiche per utilizzare questi potenti dati comportamentali nella tua segmentazione.
 
-Per ulteriori informazioni su [!DNL Data Explorer], visita [Data Explorer - Panoramica, vantaggi e casi d&#39;uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en).
+Per ulteriori informazioni su [!DNL Data Explorer], visita [Data Explorer - Panoramica, vantaggi e casi d&#39;uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=it).

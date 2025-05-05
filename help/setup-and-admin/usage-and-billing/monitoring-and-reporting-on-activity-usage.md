@@ -24,4 +24,4 @@ Questo video illustra come utilizzare [!UICONTROL Activity Usage Report], inclus
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
-Per ulteriori informazioni, visita la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html).
+Per ulteriori informazioni, visita la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html?lang=it).

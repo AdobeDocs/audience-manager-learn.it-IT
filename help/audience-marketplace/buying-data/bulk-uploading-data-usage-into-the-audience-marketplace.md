@@ -25,6 +25,6 @@ Quando si segnala l&#39;utilizzo di dati di seconde e terze parti in [!UICONTROL
 >[!VIDEO](https://video.tv.adobe.com/v/25521/?quality=12)
 
 Oltre a questo strumento di caricamento in blocco per semplificare e risparmiare tempo nella generazione di rapporti sull&#39;utilizzo dei dati, i clienti che acquistano dati di seconde o terze parti da [!UICONTROL Audience Marketplace] possono beneficiare di criteri di attribuzione dei costi migliorati. Questa nuova policy attribuisce i costi ai fornitori di dati in base al numero di utenti univoci delle caratteristiche in un segmento basato su regole, garantendo maggiore trasparenza e una fatturazione dell’utilizzo equa.
-Ulteriori dettagli sull&#39;algoritmo di fatturazione sono disponibili in [Attribuzione costi per feed dati CPM](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html) nella documentazione del prodotto.
+Ulteriori dettagli sull&#39;algoritmo di fatturazione sono disponibili in [Attribuzione costi per feed dati CPM](https://experiencecloud.adobe.com/resources/help/it_IT/aam/marketplace_cpm_billing.html) nella documentazione del prodotto.
 
-Per ulteriori informazioni sulla segnalazione dell&#39;utilizzo di CPM, vedere [Come segnalare l&#39;utilizzo di CPM](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html) nella documentazione del prodotto.
+Per ulteriori informazioni sulla segnalazione dell&#39;utilizzo di CPM, vedere [Come segnalare l&#39;utilizzo di CPM](https://experiencecloud.adobe.com/resources/help/it_IT/aam/t_marketplace_report_cpm_usage.html) nella documentazione del prodotto.

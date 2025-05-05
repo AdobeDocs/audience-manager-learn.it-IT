@@ -21,4 +21,4 @@ Questo video illustra l&#39;interfaccia di [!UICONTROL Destination], mostrando e
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
-Per ulteriori informazioni, visita [Tipi di pubblico utilizzabili](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html) nella documentazione del prodotto.
+Per ulteriori informazioni, visita [Tipi di pubblico utilizzabili](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=it) nella documentazione del prodotto.
