@@ -1,5 +1,5 @@
 ---
-title: Reporting dell’utilizzo di dati di seconde e terze parti in Audience Marketplace a livello di segmento
+title: Generazione di rapporti sull’utilizzo di dati di seconde e terze parti in Audience Marketplace a livello di segmento
 description: Questo video mostra un nuovo metodo di reporting dell’utilizzo dei dati nella sezione Payables dell’interfaccia utente di Audience Marketplace. Oltre al processo esistente di reporting a livello di feed, ora è possibile inviare impression mensili a livello di segmento, eliminando la necessità di calcoli offline per l’attribuzione dei costi.
 feature: Audience Marketplace
 topics: null
@@ -26,6 +26,6 @@ Questo video mostra un nuovo metodo per segnalare l&#39;utilizzo dei dati nella 
 
 Questa versione offre maggiore flessibilità e un flusso di lavoro migliorato per l’utilizzo di dati di seconde e terze parti, che consente ai clienti di generare rapporti sulle impression a livello di segmento tramite l’interfaccia utente o utilizzando la funzionalità di caricamento in blocco.
 
-Inoltre, i clienti che acquistano dati di seconde o terze parti da [!UICONTROL Audience Marketplace] beneficiano di una migliore politica di attribuzione dei costi. Questa nuova policy attribuisce i costi ai fornitori di dati in base al numero di utenti univoci delle caratteristiche in un segmento basato su regole, garantendo maggiore trasparenza e una fatturazione dell’utilizzo equa. Ulteriori dettagli sull&#39;algoritmo di fatturazione sono disponibili in [Attribuzione costi per feed dati CPM](https://experiencecloud.adobe.com/resources/help/it_IT/aam/marketplace_cpm_billing.html) nella documentazione del prodotto.
+Inoltre, i clienti che acquistano dati di seconde o terze parti da [!UICONTROL Audience Marketplace] beneficiano di una migliore politica di attribuzione dei costi. Questa nuova policy attribuisce i costi ai fornitori di dati in base al numero di utenti univoci delle caratteristiche in un segmento basato su regole, garantendo maggiore trasparenza e una fatturazione dell’utilizzo equa. Ulteriori dettagli sull&#39;algoritmo di fatturazione sono disponibili in [Attribuzione costi per feed dati di CPM](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html) nella documentazione del prodotto.
 
-Per ulteriori informazioni sulla segnalazione dell&#39;utilizzo di CPM, vedere [Come segnalare l&#39;utilizzo di CPM](https://experiencecloud.adobe.com/resources/help/it_IT/aam/t_marketplace_report_cpm_usage.html) nella documentazione del prodotto.
+Per ulteriori informazioni sulla segnalazione dell&#39;utilizzo di CPM, vedere [Come segnalare l&#39;utilizzo di CPM](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html) nella documentazione del prodotto.

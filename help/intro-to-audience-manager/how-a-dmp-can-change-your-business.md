@@ -1,6 +1,6 @@
 ---
 title: Come un DMP può cambiare il tuo business
-description: Le piattaforme di gestione dei dati sono al momento una realtà tecnologica, ma cosa sono e cosa più importante, come possono aiutarti in quanto esperti di marketing a raggiungere i tuoi obiettivi? In questa sessione spiegheremo cos’è un DMP e presenteremo alcuni casi aziendali reali in cui i clienti hanno visto straordinari rendimenti sul loro investimento, da acquisti di supporti più efficienti a conversioni significativamente aumentate.
+description: Le piattaforme di gestione dei dati sono al momento una realtà tecnologica, ma cosa sono e cosa più importante, come possono aiutarti in quanto esperti di marketing a raggiungere i tuoi obiettivi? In questa sessione vi spiegheremo cos'è un DMP e vi mostreremo alcuni case study reali dove i clienti hanno visto straordinari ritorni sui loro investimenti, da acquisti di supporti più efficienti a conversioni significativamente aumentate.
 feature: Overview
 topics: null
 activity: understand
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 [!DNL Data Management Platforms] sono le parole del mondo della tecnologia in questo momento, ma cosa sono e cosa più importante, come possono aiutarti come addetti al marketing a realizzare i tuoi obiettivi?
 
-In questa sessione spiegheremo cos’è un DMP e presenteremo alcuni casi aziendali reali in cui i clienti hanno visto straordinari rendimenti sul loro investimento, da acquisti di supporti più efficienti a conversioni significativamente aumentate.
+In questa sessione vi spiegheremo cos&#39;è un DMP e vi mostreremo alcuni case study reali dove i clienti hanno visto straordinari ritorni sui loro investimenti, da acquisti di supporti più efficienti a conversioni significativamente aumentate.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)

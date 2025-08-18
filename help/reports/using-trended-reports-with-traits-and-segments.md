@@ -1,6 +1,6 @@
 ---
 title: Utilizzare rapporti sulle tendenze con caratteristiche e segmenti
-description: Scopri come utilizzare i Rapporti sulle tendenze in Audience Manager per visualizzare le prestazioni delle caratteristiche e dei segmenti nel tempo.
+description: Scopri come utilizzare i rapporti sulle tendenze in Audience Manager per vedere come si presentano le caratteristiche e i segmenti nel tempo.
 feature: General & Trend Reports
 topics: null
 activity: use
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Scopri come utilizzare i rapporti con tendenze in Audience Manager per visualizzare le prestazioni delle caratteristiche e dei segmenti nel tempo.
 
->[!VIDEO](https://video.tv.adobe.com/v/340799/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/328280/?quality=12&learn=on)

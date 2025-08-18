@@ -1,6 +1,6 @@
 ---
 title: Come acquisire dati basati su file
-description: In questo video, scopri i passaggi da seguire per inserire dati offline in Audience Manager, inclusi i requisiti di nome file per il file di dati.
+description: Questo video illustra i passaggi da seguire per inserire dati offline in Audience Manager, inclusi i requisiti di nome file per il file di dati.
 feature: Onboarding Offline Data
 topics: null
 activity: use
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # Passaggi per l’acquisizione di dati basati su file
 
-In questo video, scopri i passaggi da seguire per inserire dati offline in Audience Manager, inclusi i requisiti di nome file per il file di dati.
+Questo video illustra i passaggi da seguire per inserire dati offline in Audience Manager, inclusi i requisiti di nome file per il file di dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/346198/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/331008/?quality=12&learn=on)
 
 Per un video sulla formattazione dei dati per i file in entrata, fai clic [QUI](formatting-and-ingesting-file-based-data.md).
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html?lang=it).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html).

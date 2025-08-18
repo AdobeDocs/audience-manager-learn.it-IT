@@ -22,4 +22,4 @@ ht-degree: 0%
 
 In questo video, scopri come formattare una sincronizzazione ID basata su file per collegare gli ID cliente (ID CRM) con indirizzi e-mail con hash. In questo modo potrai inviare gli indirizzi e-mail con hash alle destinazioni basate su persone, come [!DNL Facebook].
 
->[!VIDEO](https://video.tv.adobe.com/v/36262/?quality=12&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)

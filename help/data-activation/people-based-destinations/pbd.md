@@ -31,6 +31,6 @@ Questa sezione contiene video e tutorial su argomenti relativi alle destinazioni
 * [Configurare le regole di unione profili per le destinazioni basate su persone](configuring-profile-merge-rules-for-people-based-destinations.md)
 * [Creare segmenti per le destinazioni basate su persone](creating-segments-for-people-based-destinations.md)
 * [Creare e configurare destinazioni basate su persone](create-and-configure-people-based-destinations.md)
-* [Comprendere e configurare la destinazione basata su Persone di LinkedIn](understanding-and-configuring-the-linkedin-pbd.md)
+* [Comprendere e configurare la destinazione LinkedIn basata sulle persone](understanding-and-configuring-the-linkedin-pbd.md)
 
-Questi video possono essere utilizzati insieme alla [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=it).
+Questi video possono essere utilizzati insieme alla [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).

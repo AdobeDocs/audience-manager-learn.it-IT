@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Informazioni sulle metriche tra dispositivi in Audience Manager
+# Metriche tra dispositivi in Audience Manager
 
 Questo video illustra la differenza tra i profili dei dispositivi e i profili tra più dispositivi e dove i numeri nell’interfaccia corrispondono a questi diversi tipi di profili.
 
->[!VIDEO](https://video.tv.adobe.com/v/36892/?quality=12&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/33445/?quality=12)

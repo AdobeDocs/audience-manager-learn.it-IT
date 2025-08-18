@@ -1,6 +1,6 @@
 ---
-title: Segmenti in Real-time CDP per utenti Audienci Manager
-description: Passando da Audience Manager a Real-time Customer Data Platform, è utile comprendere le differenze concettuali. Questo video analizza le differenze nei segmenti e nella creazione dei segmenti tra Audience Manager e Real-time CDP.
+title: Segmenti in Real-time CDP per gli utenti di Audience Manager
+description: Nel passaggio da Audience Manager a Real-time Customer Data Platform, è utile comprendere le differenze concettuali. Questo video analizza le differenze nei segmenti e nella creazione dei segmenti tra Audience Manager e Real-time CDP.
 feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -16,18 +16,18 @@ ht-degree: 0%
 
 ---
 
-# Segmenti in Real-time CDP per utenti Audienci Manager
+# Segmenti in Real-time CDP per gli utenti di Audience Manager
 
-Passando da Audience Manager a Real-time Customer Data Platform, è utile comprendere le differenze concettuali. Questo video analizza le differenze nei segmenti e nella creazione dei segmenti tra Audience Manager e Real-time CDP.
+Nel passaggio da Audience Manager a Real-time Customer Data Platform, è utile comprendere le differenze concettuali. Questo video analizza le differenze nei segmenti e nella creazione dei segmenti tra Audience Manager e Real-time CDP.
 
->[!VIDEO](https://video.tv.adobe.com/v/347031/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/331901/?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-Di seguito sono riportati alcuni video e tutorial che possono aiutarti a scoprire di più su Real-time Customer Data Platform. Puoi trovare altri video e tutorial su questi argomenti per ulteriori informazioni su Platform.
+Di seguito sono riportati alcuni video e tutorial che possono aiutarti a scoprire Real-time Customer Data Platform. Puoi trovare altri video e tutorial su questi argomenti per ulteriori informazioni su Platform.
 
-* [Creare uno schema tramite l&#39;Editor di schema](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=it#getting-started)
-* [Crea set di dati](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=it#permissions-required)
-* [Crea segmenti](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=it#segments)
-* [Crea segmenti dinamici](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-dynamic-segments.html?lang=it#segments)
-* [Creare segmenti con più entità](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-multi-entity-segments.html?lang=it#segments)
+* [Creare uno schema tramite l&#39;Editor di schema](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
+* [Crea set di dati](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=en#permissions-required)
+* [Crea segmenti](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)
+* [Crea segmenti dinamici](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-dynamic-segments.html?lang=en#segments)
+* [Creare segmenti con più entità](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-multi-entity-segments.html?lang=en#segments)

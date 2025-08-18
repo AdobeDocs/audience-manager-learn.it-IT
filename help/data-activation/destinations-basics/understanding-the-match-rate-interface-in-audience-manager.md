@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# Comprendere l’interfaccia Tasso di corrispondenza in Audience Manager
+# Interfaccia Tasso di corrispondenza in Audience Manager
 
 Questo video illustra l&#39;interfaccia di [!UICONTROL Destination], mostrando e spiegando i numeri associati alle percentuali di corrispondenza e ai tipi di pubblico indirizzabili.
 
->[!VIDEO](https://video.tv.adobe.com/v/342851/?quality=12&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
-Per ulteriori informazioni, visita [Tipi di pubblico utilizzabili](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=it) nella documentazione del prodotto.
+Per ulteriori informazioni, visita [Tipi di pubblico utilizzabili](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html) nella documentazione del prodotto.

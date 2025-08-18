@@ -1,6 +1,6 @@
 ---
 title: Creare caratteristiche onboarded
-description: Scopri i suggerimenti per la creazione di caratteristiche onboarded in Audience Manager.
+description: Scopri suggerimenti per la creazione di caratteristiche onboarded in Audience Manager.
 feature: Traits
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Creare caratteristiche onboarded
 
-Scopri i suggerimenti per la creazione di caratteristiche onboarded in Audience Manager.
+Scopri suggerimenti per la creazione di caratteristiche onboarded in Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/328519/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/40267/?quality=12&learn=on)

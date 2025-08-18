@@ -1,6 +1,6 @@
 ---
 title: Utilizza Data Explorer per cercare coppie chiave/valore utilizzate e non utilizzate
-description: Nel lavoro quotidiano di Audience Manager, potrebbe essere necessario scoprire rapidamente se una caratteristica è stata creata da una coppia chiave/valore specifica. Questo video mostra come scoprirlo con Data Explorer.
+description: Nel lavoro quotidiano in Audience Manager, potrebbe essere necessario scoprire rapidamente se una caratteristica è stata creata da una coppia chiave/valore specifica. Questo video illustra come scoprirlo con Data Explorer.
 feature: Data Explorer
 topics: null
 activity: use
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# Usa [!UICONTROL Data Explorer] per cercare coppie chiave/valore usate e non usate nell&#39;AAM {#using-data-explorer-to-search-for-used-and-unused-key-value-pairs-in-aam}
+# Utilizza [!UICONTROL Data Explorer] per cercare coppie chiave/valore usate e non usate in AAM {#using-data-explorer-to-search-for-used-and-unused-key-value-pairs-in-aam}
 
-Nel lavoro quotidiano di Audience Manager, potrebbe essere necessario scoprire rapidamente se una caratteristica è stata creata da una coppia chiave/valore specifica. Questo video illustra come scoprirlo con [!UICONTROL Data Explorer].
+Nel lavoro quotidiano in Audience Manager, potrebbe essere necessario scoprire rapidamente se una caratteristica è stata creata da una coppia chiave/valore specifica. Questo video illustra come scoprirlo con [!UICONTROL Data Explorer].
 
->[!VIDEO](https://video.tv.adobe.com/v/330366/?quality=12&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/25148/?quality=12)
 
 Per scoprire se un segnale è stato creato in una caratteristica, non è più necessario scaricare un file BAAAM e il report [!UICONTROL Unused Signals]. Ora è sufficiente cercare la coppia chiave/valore in [!DNL Data Explorer], ovvero nell&#39;app [!UICONTROL Signals], in AAM e trovare le coppie chiave/valore che si trovano in caratteristiche e quelle che non si trovano, tutte nello stesso elenco. Ottimo risparmio di tempo!
 
-Per ulteriori informazioni su [!UICONTROL Data Explorer], visitare [Data Explorer - Panoramica, vantaggi e casi d&#39;uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=it)).
+Per ulteriori informazioni su [!UICONTROL Data Explorer], visitare [Data Explorer - Panoramica, vantaggi e casi d&#39;uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)).

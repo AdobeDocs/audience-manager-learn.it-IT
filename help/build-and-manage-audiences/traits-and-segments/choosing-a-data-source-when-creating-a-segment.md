@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Scopri alcuni suggerimenti sulla scelta dell’origine dati corretta durante la creazione di un nuovo segmento in Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/327397/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/39293/?quality=12&learn=on)

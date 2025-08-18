@@ -22,4 +22,4 @@ ht-degree: 0%
 
 [!UICONTROL Data Export Labels] offre un meccanismo in Audience Manager per controllare il flusso di diversi tipi di dati/origini, in modo da soddisfare i requisiti di privacy. Scopri come e dove impostare [!UICONTROL Data Export Controls] e [!UICONTROL Data Export Labels] per lavorare insieme a questo scopo.
 
->[!VIDEO](https://video.tv.adobe.com/v/345095/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/330322/?quality=12&learn=on)

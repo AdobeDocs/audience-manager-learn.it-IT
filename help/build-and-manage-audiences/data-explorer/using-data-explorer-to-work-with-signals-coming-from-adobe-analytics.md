@@ -1,5 +1,5 @@
 ---
-title: Utilizza Data Explorer per lavorare con i segnali provenienti da Adobe Analytics
+title: Utilizzare Data Explorer per lavorare con i segnali provenienti da Adobe Analytics
 description: Questo video mostra come lavorare in Data Explorer per scoprire e utilizzare i dati di Adobe Analytics, inclusa la ricerca di segnali utilizzati e non utilizzati, la creazione di caratteristiche di Analytics e la comprensione dei dati.
 feature: Data Explorer
 topics: null
@@ -22,10 +22,10 @@ ht-degree: 0%
 
 In questo video viene illustrato come utilizzare [!UICONTROL Data Explorer] per individuare e utilizzare i dati di Adobe Analytics, inclusa la ricerca di [!UICONTROL signals] utilizzati e non utilizzati, la creazione di [!DNL Analytics] caratteristiche e la comprensione dei dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/330365/?quality=12&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/25150/?quality=12)
 
-È probabile che una delle tue principali fonti di dati in arrivo in Audience Manager sia una soluzione di analisi, e ovviamente speriamo che sia Adobe Analytics.
+È probabile che una delle principali fonti di dati in arrivo in Audience Manager sia una soluzione di analisi, e ovviamente speriamo che sia Adobe Analytics.
 
 [!UICONTROL Data Explorer] è stato caricato ed è pronto per aiutarti a vedere cosa proviene da varie suite di rapporti. Quando scopri [!DNL Analytics] segnali non ancora utilizzati nelle caratteristiche, puoi fare clic direttamente su [!DNL Trait Builder] e creare le caratteristiche per utilizzare questi potenti dati comportamentali nella tua segmentazione.
 
-Per ulteriori informazioni su [!DNL Data Explorer], visita [Data Explorer - Panoramica, vantaggi e casi d&#39;uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=it).
+Per ulteriori informazioni su [!DNL Data Explorer], visitare [Data Explorer - Panoramica, vantaggi e casi d&#39;uso](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en).

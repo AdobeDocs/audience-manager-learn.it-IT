@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Questo video offre una panoramica delle destinazioni basate su persone e mostra il flusso di dati attraverso il processo.
 
->[!VIDEO](https://video.tv.adobe.com/v/34905/?quality=12&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/28968/?quality=12)

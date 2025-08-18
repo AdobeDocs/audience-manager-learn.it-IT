@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Questo video illustra i dettagli e i casi di utilizzo della destinazione basata su Persone del Customer Match di Google e include una procedura dettagliata per la creazione di un segmento e la mappatura su una destinazione. Mostra anche il pubblico che arriva in Google Ad Console.
 
->[!VIDEO](https://video.tv.adobe.com/v/326462/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/38552/?quality=12&learn=on)

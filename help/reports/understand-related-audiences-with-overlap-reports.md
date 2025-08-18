@@ -22,6 +22,6 @@ ht-degree: 0%
 
 I rapporti di sovrapposizione consentono di vedere in che modo le caratteristiche e i tipi di pubblico dei segmenti si sovrappongono tra loro (lo stesso visitatore in più caratteristiche o segmenti), in modo da sapere dove intervenire per aumentare la conversione o concentrarti su una portata più ampia.
 
->[!VIDEO](https://video.tv.adobe.com/v/345083/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/330432/?quality=12&learn=on)
 
-Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html?lang=it#reporting).
+Per ulteriori informazioni, consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html#reporting).

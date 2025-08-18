@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Durante la creazione di campagne di marketing, in particolare campagne di estensione di portata/pubblico, puoi escludere i clienti correnti per commercializzarli in modo diverso. Questo video illustra le opzioni per la creazione di segmenti al fine di escludere coloro che si sono già convertiti allo stato di cliente.
 
->[!VIDEO](https://video.tv.adobe.com/v/41160/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/36494/?quality=12&learn=on)

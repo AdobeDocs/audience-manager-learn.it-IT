@@ -22,10 +22,10 @@ ht-degree: 0%
 
 **Varun Kalra**, Multi-Solution Consultant presso **Accordant**, offre suggerimenti sulla scelta e l&#39;utilizzo delle regole di unione profili (PMR, Profile Merge Rules).
 
-Varun Kalra è un consulente multisoluzione che lavora presso un Adobe Solution Partner - Accordant con sede a Sydney. Varun lavora principalmente su progetti Audience Manager, Adobe Analytics e AEP che coinvolgono l’individuazione, l’implementazione, il supporto e l’abilitazione dei dati. I suggerimenti includono argomenti quali:
+Varun Kalra è un consulente multisoluzione che lavora presso un Accordant, un Solution Partner Adobe con sede a Sydney. Varun lavora principalmente su progetti Audience Manager, Adobe Analytics e AEP che coinvolgono l’individuazione, l’implementazione, il supporto e l’abilitazione dei dati. I suggerimenti includono argomenti quali:
 
 * Identificazione degli obiettivi della campagna per la configurazione PMR
 * Approfondimento su un caso d’uso di targeting
 * Casi d’uso per varie impostazioni PMR
 
-[Leggi i suggerimenti di Varun nella community di Experienci League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)
+[Leggi i suggerimenti di Varun nella community Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)

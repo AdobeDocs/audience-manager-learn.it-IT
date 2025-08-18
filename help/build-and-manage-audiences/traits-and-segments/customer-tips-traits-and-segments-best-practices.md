@@ -28,4 +28,4 @@ Matt Vittorioso è un Senior Marketing Specialist del team Digital Marketing di 
 * Utilizzare funzionalità pronte all’uso
 * Revisione regolare di caratteristiche e segmenti
 
-[Leggi i suggerimenti di Matt nella community di Experienci League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)
+[Leggi i suggerimenti di Matt nella community di Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/traits-and-segments-best-practices/ba-p/367729)

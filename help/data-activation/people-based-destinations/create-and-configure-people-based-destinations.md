@@ -1,6 +1,6 @@
 ---
 title: Creare e configurare destinazioni basate su persone
-description: Scopri i prerequisiti per la creazione di una destinazione basata su Persone e come configurare un account integrato (collegamento al partner, ad esempio Facebook). Scopri la configurazione interna al prodotto della destinazione stessa.
+description: Scopri i prerequisiti per creare una destinazione basata su Persone e come configurare un account integrato (collegamento al partner, ad esempio Facebook). Scopri la configurazione interna al prodotto della destinazione stessa.
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Questo video fornisce innanzitutto alcune informazioni sui prerequisiti per la creazione della destinazione basata su Persone, quindi illustra anche come configurare un account integrato (collegamento al partner, ad esempio [!DNL Facebook]). Poi ti guida attraverso la configurazione interna al prodotto della destinazione stessa.
 
->[!VIDEO](https://video.tv.adobe.com/v/36988/?quality=12&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)

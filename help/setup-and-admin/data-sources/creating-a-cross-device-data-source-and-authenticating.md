@@ -1,6 +1,6 @@
 ---
 title: Creare un’origine dati multi-dispositivo per l’autenticazione
-description: Scopri come creare un’origine dati multi-dispositivo per l’autenticazione. Scopri come inserire in Audience Manager i dati CRM di prime parti per eseguire meglio il targeting dei clienti e impostare il metodo setCustomerIDs() nei tag di Platform per gli accessi.
+description: Scopri come creare un’origine dati multi-dispositivo per l’autenticazione. Scopri come inserire i dati CRM di prime parti in Audience Manager per eseguire meglio il targeting dei clienti e impostare il metodo setCustomerIDs() nei tag di Platform per gli accessi.
 feature: Data Sources
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Creazione di un’origine dati multi-dispositivo e autenticazione
 
-Quando desideri inserire in Audience Manager i dati CRM di prima parte per eseguire meglio il targeting dei clienti, devi prima creare un’origine dati multi-dispositivo per memorizzare gli ID e i dati del sistema di gestione delle relazioni con i clienti. In questo esempio viene illustrato come eseguire questa operazione e come impostare il metodo `setCustomerIDs()` nei tag di Experience Platform per i login.
+Quando desideri inserire i dati CRM di prime parti in Audience Manager per eseguire meglio il targeting dei clienti, devi innanzitutto creare un’origine dati multi-dispositivo per memorizzare gli ID e i dati del sistema di gestione delle relazioni con i clienti. Questo mostra come eseguire questa operazione e come impostare il metodo `setCustomerIDs()` nei tag di Experience Platform per i log-in.
 
->[!VIDEO](https://video.tv.adobe.com/v/346212/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/331006/?quality=12&learn=on)

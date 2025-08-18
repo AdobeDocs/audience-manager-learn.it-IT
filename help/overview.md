@@ -1,5 +1,5 @@
 ---
-title: Video e tutorial di Audience Manager
+title: Video e tutorial su Audience Manager
 description: Raccolta di video e tutorial su Adobe Audience Manager.
 feature: Overview
 topics: null
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 ---
 
-# Esercitazioni di Audience Manager
+# Tutorial su Audience Manager
 
-Ti diamo il benvenuto nel sito dei tutorial di Audience Manager. Segui questi tutorial e consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=it) per capire meglio come utilizzare Adobe Audience Manager per creare e attivare tipi di pubblico su qualsiasi canale o dispositivo utilizzando la soluzione [!DNL data management platform] di Adobe.
+Ti diamo il benvenuto nel sito dei tutorial di Audience Manager. Segui questi tutorial e consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) per capire meglio come utilizzare Adobe Audience Manager per creare e attivare tipi di pubblico su qualsiasi canale o dispositivo utilizzando la soluzione leader di Adobe [!DNL data management platform].
 
 * **Le scelte del personale** evidenziano alcuni dei nostri contenuti preferiti
 * Esplora il contenuto per argomento e sottoargomento nella **navigazione a sinistra**
@@ -39,7 +39,7 @@ Ti diamo il benvenuto nel sito dei tutorial di Audience Manager. Segui questi tu
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=it">
-      <img alt="miniatura per l’esercitazione &quot;Implementare Adobe Experience Cloud con Web SDK&quot;" src="assets/implement-web-sdk.jpg" />
+      <img alt="immagine di anteprima per l&apos;esercitazione &apos;Implementare Adobe Experience Cloud con Web SDK&apos;" src="assets/implement-web-sdk.jpg" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=it">
@@ -47,16 +47,16 @@ Ti diamo il benvenuto nel sito dei tutorial di Audience Manager. Segui questi tu
     </a>
     </div>
     <p>
-    <em>Scopri come implementare applicazioni Experience Cloud utilizzando Adobe Experience Platform Web SDK.</em>
+    <em>Scopri come implementare le applicazioni Experience Cloud utilizzando Adobe Experience Platform Web SDK.</em>
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=it">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
       <img alt="immagine di anteprima per l’esercitazione ‘Understanding Segments in Real-time CDP’ (Informazioni sui segmenti in Real-time CDP)" src="assets/331901.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=it">
-    <strong>Segmenti in Real-time CDP per utenti di Audience Manager</strong>
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+    <strong>Segmenti in Real-time CDP per gli utenti di Audience Manager</strong>
     </a>
     </div>
     <p>
@@ -64,12 +64,12 @@ Ti diamo il benvenuto nel sito dei tutorial di Audience Manager. Segui questi tu
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=it">
-      <img alt="immagine di anteprima per l’esercitazione &quot;Configure and report on Predictive Audiences in Audience Manager&quot; (Configurare e creare rapporti sulle audience predittive in un )" src="assets/33630.jpg" />
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+      <img alt="miniatura per l’esercitazione &quot;Configurare e creare rapporti sulle audience predittive in Audience Manager&quot;" src="assets/33630.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=it">
-    <strong>Configurazione dei Predictive Audiences e generazione dei rapporti relativi in Audience Manager</strong>
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+    <strong>Configurazione dei Predictive Audiences in Audience Manager</strong> e generazione di rapporti relativi
     </a>
     </div>
     <p>

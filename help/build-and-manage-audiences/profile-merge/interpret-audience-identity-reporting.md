@@ -1,6 +1,6 @@
 ---
 title: Interpretare i rapporti di Audience Identity
-description: La funzione di reporting di Audience Identity consente ai clienti di creare rapporti sulla popolazione totale di una caratteristica o di un segmento in base alle definizioni di identità di persona/famiglia. Guarda questo video per vedere come si manifesta nei rapporti dell’Audience Manager.
+description: La funzione di reporting di Audience Identity consente ai clienti di creare rapporti sulla popolazione totale di una caratteristica o di un segmento in base alle definizioni di identità di persona/famiglia. Guarda questo video per vedere come si manifesta nei rapporti di Audience Manager.
 feature: Profile Merge
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Interpretare i rapporti sull’identità del pubblico
 
-Il reporting di Audience Identity consente ai clienti di creare rapporti sulla popolazione totale di una caratteristica o di un segmento in base alle definizioni di identità di persona/famiglia. Guarda questo video per vedere come si manifesta nei rapporti dell’Audience Manager.
+Il reporting di Audience Identity consente ai clienti di creare rapporti sulla popolazione totale di una caratteristica o di un segmento in base alle definizioni di identità di persona/famiglia. Guarda questo video per vedere come si manifesta nei rapporti di Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/34902/?quality=12&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/28973/?quality=12)

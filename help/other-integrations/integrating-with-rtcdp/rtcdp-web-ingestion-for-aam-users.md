@@ -1,6 +1,6 @@
 ---
-title: Acquisizione di dati web in Real-time CDP per Audienci Manager utenti
-description: Questo video illustra agli Audienci Manager i concetti relativi all’importazione di dati da un sito web a Real-time Customer Data Platform (Real-time CDP) e include informazioni dettagliate sulla posizione del connettore dati di Audience Manager, nonché sul modo in cui i dati possono essere trasferiti dal sito web direttamente tramite l’SDK per web a Real-time CDP.
+title: Acquisizione di dati web in Real-time CDP per gli utenti di Audience Manager
+description: Questo video mostra agli utenti di Audience Manager i concetti relativi all’acquisizione di dati dai siti web in Real-time Customer Data Platform (Real-time CDP) e include informazioni approfondite su dove si adatta il connettore dati di Audience Manager, nonché su come i dati possono passare dal sito web direttamente a Real-time CDP tramite Web SDK.
 feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
@@ -16,16 +16,16 @@ ht-degree: 0%
 
 ---
 
-# Acquisizione di dati web in Real-time CDP per Audienci Manager utenti
+# Acquisizione di dati web in Real-time CDP per gli utenti di Audience Manager
 
-Questo video illustra agli Audienci Manager i concetti relativi all’importazione di dati da un sito web a Real-time Customer Data Platform (Real-time CDP) e include informazioni dettagliate sulla posizione del connettore dati di Audience Manager, nonché sul modo in cui i dati possono essere trasferiti dal sito web direttamente tramite l’SDK per web a Real-time CDP.
+Questo video mostra agli utenti di Audience Manager i concetti relativi all’acquisizione di dati dai siti web in Real-time Customer Data Platform (Real-time CDP) e include informazioni approfondite su dove si adatta il connettore dati di Audience Manager, nonché su come i dati possono passare dal sito web direttamente a Real-time CDP tramite Web SDK.
 
->[!VIDEO](https://video.tv.adobe.com/v/346979/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/331752/?quality=12&learn=on)
 
 ## Risorse aggiuntive
 
-Di seguito sono riportati alcuni video e tutorial che possono aiutarti a scoprire di più su Real-time Customer Data Platform. Puoi trovare altri video e tutorial su questi argomenti per ulteriori informazioni su Platform.
+Di seguito sono riportati alcuni video e tutorial che possono aiutarti a scoprire Real-time Customer Data Platform. Puoi trovare altri video e tutorial su questi argomenti per ulteriori informazioni su Platform.
 
-* [Acquisire dati utilizzando il connettore dati di Adobe Audience Manager](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=it#sources)
-* [Tutorials di Adobe Experience Platform Web SDK](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=it)
-* [Creare uno schema tramite l&#39;Editor di schema](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=it#getting-started)
+* [Acquisire dati utilizzando il connettore dati di Adobe Audience Manager](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
+* [Tutorial su Adobe Experience Platform Web SDK](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=en)
+* [Creare uno schema tramite l&#39;Editor di schema](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)

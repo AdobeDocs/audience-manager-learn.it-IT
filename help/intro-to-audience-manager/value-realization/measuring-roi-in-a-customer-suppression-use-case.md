@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Un centesimo risparmiato è un centesimo guadagnato, giusto? Scopri come utilizzare alcune formule per determinare il risparmio sui costi della campagna eliminando gli annunci ai clienti esistenti.
 
->[!VIDEO](https://video.tv.adobe.com/v/41158/?quality=12&learn=on&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/36654/?quality=12&learn=on)
