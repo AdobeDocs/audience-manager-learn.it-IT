@@ -21,6 +21,6 @@ Questo video illustra i diversi tipi di destinazioni in Adobe Audience Manager e
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-Puoi visualizzare un elenco dei partner di destinazione server-to-server disponibili nella [documentazione sulle destinazioni basate su dispositivi di Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html).
+Puoi visualizzare un elenco dei partner di destinazione server-to-server disponibili nella [documentazione sulle destinazioni basate su dispositivi di Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html?lang=it).
 
-Per ulteriori informazioni sulle destinazioni, visita [Destinazioni](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html) nella documentazione del prodotto.
+Per ulteriori informazioni sulle destinazioni, visita [Destinazioni](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html?lang=it) nella documentazione del prodotto.

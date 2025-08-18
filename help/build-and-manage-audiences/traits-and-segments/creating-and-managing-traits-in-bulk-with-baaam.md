@@ -22,7 +22,7 @@ Quando crei, modifichi o elimini delle caratteristiche, l’utilizzo dell’inte
 
 >[!VIDEO](https://video.tv.adobe.com/v/330749/?quality=12&learn=on)
 
-Per ulteriori informazioni, incluso il download del foglio di lavoro BAAAM, visita la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=en#reference).
+Per ulteriori informazioni, incluso il download del foglio di lavoro BAAAM, visita la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html?lang=it#reference).
 
 >[!IMPORTANT]
 >
