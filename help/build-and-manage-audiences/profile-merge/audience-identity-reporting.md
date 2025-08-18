@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Il reporting di Audience Identity consente ai clienti di creare rapporti sulla popolazione totale di una caratteristica o di un segmento in base alle definizioni di identità di persona/famiglia. Guarda questo video per vedere come si manifesta nei rapporti di Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/36989/?quality=12&captions=ita)

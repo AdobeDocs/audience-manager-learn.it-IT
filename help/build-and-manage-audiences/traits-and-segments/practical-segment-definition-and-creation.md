@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Questo video illustra il processo di definizione dei segmenti e della loro suddivisione in base alle caratteristiche o ai segnali necessari per crearli.
 
->[!VIDEO](https://video.tv.adobe.com/v/37391/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326723/?quality=12&learn=on&captions=ita)

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Scopri come utilizzare i rapporti con tendenze in Audience Manager per visualizzare le prestazioni delle caratteristiche e dei segmenti nel tempo.
 
->[!VIDEO](https://video.tv.adobe.com/v/328280/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340799/?quality=12&learn=on&captions=ita)

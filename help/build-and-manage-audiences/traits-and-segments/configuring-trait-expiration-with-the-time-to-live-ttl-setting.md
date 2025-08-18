@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Una delle impostazioni per la creazione delle caratteristiche è l&#39;impostazione [!UICONTROL Time to Live] (TTL), che corrisponde alla scadenza dell&#39;appartenenza alla caratteristica se la riqualificazione non avviene entro il periodo di tempo specificato. Questo video mostra come visualizzare e impostare questa funzione.
 
->[!VIDEO](https://video.tv.adobe.com/v/329381/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341337/?quality=12&learn=on&captions=ita)

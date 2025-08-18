@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Questo video illustra i passaggi da seguire per inserire dati offline in Audience Manager, inclusi i requisiti di nome file per il file di dati.
 
->[!VIDEO](https://video.tv.adobe.com/v/331008/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346198/?quality=12&learn=on&captions=ita)
 
 Per un video sulla formattazione dei dati per i file in entrata, fai clic [QUI](formatting-and-ingesting-file-based-data.md).
 

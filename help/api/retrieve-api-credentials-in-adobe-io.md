@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Invece di contattare Adobe Consulting o l’Assistenza clienti per richiedere le credenziali per l’utilizzo dell’API REST, puoi semplicemente andare su developer.adobe.com da un browser e recuperare o registrare le tue credenziali.
 
->[!VIDEO](https://video.tv.adobe.com/v/37889/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326849/?quality=12&learn=on&captions=ita)

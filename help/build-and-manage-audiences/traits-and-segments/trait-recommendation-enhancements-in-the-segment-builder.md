@@ -21,6 +21,6 @@ ht-degree: 0%
 
 Questo video illustra come utilizzare i consigli sulle caratteristiche aggiornati in [!UICONTROL Segments], che sono [!UICONTROL Audience Marketplace] consigli. In questo modo potrai accedere a dati di terze parti aggiuntivi su insight, che possono estendere la portata dei tuoi segmenti.
 
->[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/39139/?quality=12&captions=ita)
 
 Per ulteriori informazioni, visita la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=it).

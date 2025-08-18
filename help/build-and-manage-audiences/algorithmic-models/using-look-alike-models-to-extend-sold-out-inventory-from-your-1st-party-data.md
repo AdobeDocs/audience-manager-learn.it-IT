@@ -42,7 +42,7 @@ In questo caso d’uso, si presume già che ciò sia avvenuto, perché l’inven
 
 Inoltre, quando si utilizzano gli eventi per creare le caratteristiche, è necessario tenere presente una caratteristica principale, in modo da non raccogliere più utenti di quanto si dovrebbe per la caratteristica. Guarda il video seguente per la grande rivelazione. :)
 
->[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/329877/?quality=12&captions=ita)
 
 **NOTA:** Nel video precedente, l&#39;esempio che mostro presuppone che tu disponga di Adobe Analytics. Ovviamente, questo potrebbe non essere il caso. Se disponi di Google Analytics (GA), è disponibile un modulo che puoi utilizzare per inviare dati ad AAM (consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html?lang=it)). Se l&#39;attività di conversione sul tuo sito viene inviata ad AAM da GA, puoi creare la caratteristica di conversione da tale modulo. Se disponi di una soluzione di analisi diversa (o nessuna soluzione di analisi), puoi comunque inviare dati ad AAM tramite il nostro codice DIL e la funzione `submit`, ecc. (consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html?lang=it)). Quindi, di nuovo, crea la caratteristica di conversione in base ai dati inviati quando l’attività di conversione viene eseguita sul sito.
 
@@ -52,13 +52,13 @@ In questo passaggio verrà creato un modello lookalike [!UICONTROL First Party].
 
 In questo caso d’uso, questo è importante, perché stiamo cercando di creare sul nostro sito un segmento di utenti che sembrano convertitori ma non si sono ancora convertiti, in modo da poter vendere questo segmento simile agli inserzionisti interessati.
 
->[!VIDEO](https://video.tv.adobe.com/v/23504/?quality-12)
+>[!VIDEO](https://video.tv.adobe.com/v/329910/?quality-12&captions=ita)
 
 ## Creare una caratteristica algoritmica {#creating-an-algorithmic-trait}
 
 Successivamente, sarà necessario creare un [!UICONTROL Algorithmic Trait], in modo da poter utilizzare i risultati del modello. Senza creare una caratteristica, il modello è inutile. Quindi, dopo l&#39;esecuzione del modello, assicurarsi di passare alla finestra di dialogo delle caratteristiche e creare un [!UICONTROL Algorithmic Trait]. Il seguente video illustra e fornisce alcuni suggerimenti.
 
->[!VIDEO](https://video.tv.adobe.com/v/23523/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/36347/?quality=12&captions=ita)
 
 ## Offri [!UICONTROL Algorithmic Segment] agli inserzionisti {#offering-the-algorithmic-segment-to-advertisers}
 

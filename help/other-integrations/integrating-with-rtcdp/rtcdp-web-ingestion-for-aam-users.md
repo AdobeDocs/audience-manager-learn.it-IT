@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Questo video mostra agli utenti di Audience Manager i concetti relativi all’acquisizione di dati dai siti web in Real-time Customer Data Platform (Real-time CDP) e include informazioni approfondite su dove si adatta il connettore dati di Audience Manager, nonché su come i dati possono passare dal sito web direttamente a Real-time CDP tramite Web SDK.
 
->[!VIDEO](https://video.tv.adobe.com/v/331752/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346979/?quality=12&learn=on&captions=ita)
 
 ## Risorse aggiuntive
 

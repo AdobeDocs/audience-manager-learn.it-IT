@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Questo video illustra come creare un [!UICONTROL Data Source] in Audience Manager da utilizzare per le destinazioni basate su persone.
 
->[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/34899/?quality=12&captions=ita)

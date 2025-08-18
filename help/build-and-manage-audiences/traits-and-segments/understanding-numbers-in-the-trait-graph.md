@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Ottieni alcuni suggerimenti su come comprendere i numeri riportati per le caratteristiche nella schermata di informazioni sulle caratteristiche.
 
->[!VIDEO](https://video.tv.adobe.com/v/327171/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340523/?quality=12&learn=on&captions=ita)

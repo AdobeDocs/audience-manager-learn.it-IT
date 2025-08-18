@@ -32,7 +32,7 @@ Il plug-in Audience Manager per IAB TCF estende le funzionalità di Opt-in e con
 
 Abilitare il plug-in Audience Manager per IAB TCF è facile se si utilizza Adobe Experience Platform Launch, in quanto si tratta di una semplice casella di controllo, come mostrato nel breve video seguente:
 
->[!VIDEO](https://video.tv.adobe.com/v/26433/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/38260/?quality=12&captions=ita)
 
 In alternativa, se non utilizzi Launch, puoi utilizzare `isIabContext=true` per abilitarlo quando crei un&#39;istanza del visitatore di Experience Cloud. Questo avvia il flusso IAB TCF, ovvero aggiunge un altro passaggio alla raccolta dei consensi, utilizzando IAB TCF per eseguire query sulla stringa IAB TC e la restituisce a Opt-in, che a sua volta comunica con le soluzioni Experience Cloud.
 
@@ -84,6 +84,6 @@ Bisogna però prestare attenzione: se l’utente si trova nel contesto IAB e non
 
 Nel video seguente, scopri in che modo le scelte degli utenti IAB influenzano i cookie e i beacon di ECID e delle soluzioni.
 
->[!VIDEO](https://video.tv.adobe.com/v/26434/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/38243/?quality=12&captions=ita)
 
 Per informazioni più dettagliate sul plug-in Audience Manager per IAB TCF 2.2, tra cui come implementare e testare, casi d&#39;uso e flusso di lavoro, consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=it).
