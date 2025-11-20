@@ -20,4 +20,4 @@ ht-degree: 68%
 
 Questo video illustra i passaggi, inclusi suggerimenti e trucchi, della creazione di un [!UICONTROL Data Source] in Audience Manager che puoi utilizzare per i dati provenienti in tempo reale da una soluzione di analisi come Adobe Analytics. Questa operazione deve essere eseguita prima di creare caratteristiche per i dati di analisi.
 
->[!VIDEO](https://video.tv.adobe.com/v/27329/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/328145/?captions=ita&quality=12)
