@@ -32,4 +32,4 @@ Visualizza i video e i tutorial sulle funzioni di unione profili, incluse le reg
 * [Interpretare i rapporti di Audience Identity](interpret-audience-identity-reporting.md)
 * [Comprendere le metriche tra dispositivi in Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-Questi video possono essere utilizzati insieme alla [documentazione sulle regole di unione profili](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
+Questi video possono essere utilizzati insieme alla [documentazione sulle regole di unione profili](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=it)

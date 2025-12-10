@@ -40,7 +40,7 @@ Se non sei sicuro se [!DNL tracking server forwarding] è abilitato, contatta l&
 
 ## Inoltro lato server a livello di [!UICONTROL Report-suite] {#report-suite-level-server-side-forwarding}
 
-Uno dei principali vantaggi del passaggio all&#39;inoltro [!UICONTROL report suite] dall&#39;inoltro [!UICONTROL tracking server] è la possibilità di utilizzare &quot;Audience Analytics&quot;, ovvero la possibilità di inoltrare nuovamente Audience Manager [!UICONTROL segments] ad Adobe Analytics per l&#39;analisi dettagliata dei segmenti. Questa funzionalità avanzata NON è supportata se si è ancora in fase di inoltro [!UICONTROL tracking server] e non di inoltro [!UICONTROL report suite]. Ulteriori informazioni su Audience Analytics sono disponibili nella [documentazione](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Uno dei principali vantaggi del passaggio all&#39;inoltro [!UICONTROL report suite] dall&#39;inoltro [!UICONTROL tracking server] è la possibilità di utilizzare &quot;Audience Analytics&quot;, ovvero la possibilità di inoltrare nuovamente Audience Manager [!UICONTROL segments] ad Adobe Analytics per l&#39;analisi dettagliata dei segmenti. Questa funzionalità avanzata NON è supportata se si è ancora in fase di inoltro [!UICONTROL tracking server] e non di inoltro [!UICONTROL report suite]. Ulteriori informazioni su Audience Analytics sono disponibili nella [documentazione](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=it).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 
