@@ -22,7 +22,7 @@ ht-degree: 0%
 
 In questo video, scopri come e perché escludere caratteristiche specifiche (o gruppi di caratteristiche) da un modello algoritmico (lookalike).
 
->[!VIDEO](https://video.tv.adobe.com/v/25569/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/326998/?captions=ita&quality=12)
 
 I casi di utilizzo per questa funzione includono:
 

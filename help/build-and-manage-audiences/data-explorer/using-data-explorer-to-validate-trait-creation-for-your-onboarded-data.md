@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Una delle funzioni più potenti di Audience Manager è la capacità di integrare dati offline e collegarli ai dati online. In questo video, scopri come utilizzare [!DNL Data Explorer] per verificare di aver creato tutte le caratteristiche necessarie per sfruttare questi dati onboarded.
 
->[!VIDEO](https://video.tv.adobe.com/v/25149/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/330367/?captions=ita&quality=12)
 
 In molti casi, puoi creare caratteristiche per i dati onboarded prima di effettuare l’onboarding dei dati. Tuttavia, è possibile che nuove chiavi e nuovi valori vengano aggiunti durante il percorso e che non siano più state create tutte le caratteristiche necessarie per sfruttare questi dati straordinari. Con [!UICONTROL Data Explorer], puoi eseguire una ricerca rapida per visualizzare tutti i dati onboarded, filtrarli per [!UICONTROL Data Source] specifico o anche filtrarli per la chiave e/o il valore. Questa ricerca consente di convalidare i dati in modo efficiente.
 

@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Con [!UICONTROL Trait Recommendations], quando si crea o si modifica un segmento in [!UICONTROL Segments], si ottengono consigli su caratteristiche aggiuntive da includere, simili alle caratteristiche incluse nella regola del segmento.
 
->[!VIDEO](https://video.tv.adobe.com/v/26228/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/327907/?captions=ita&quality=12)
 
 [!UICONTROL Trait Recommendations] lavora sia su dati di prime parti che di terze parti, in modo da poter includere ulteriori [!UICONTROL Traits] consigliati e aumentare il pubblico di destinazione.
 

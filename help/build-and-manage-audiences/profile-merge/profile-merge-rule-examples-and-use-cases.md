@@ -22,4 +22,4 @@ ht-degree: 0%
 
 In questo video vedrai esempi di [!UICONTROL Profile Merge Rules] e del loro significato, nonché i casi d&#39;uso risolti da [!UICONTROL Profile Merge Rules].
 
->[!VIDEO](https://video.tv.adobe.com/v/28975/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/34897/?captions=ita&quality=12)

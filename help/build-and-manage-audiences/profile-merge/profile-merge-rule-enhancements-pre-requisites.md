@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Panoramica su come prepararsi al meglio per il rilascio dei miglioramenti di [!UICONTROL Profile Merge Rule].
 
->[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/34904/?captions=ita&quality=12)

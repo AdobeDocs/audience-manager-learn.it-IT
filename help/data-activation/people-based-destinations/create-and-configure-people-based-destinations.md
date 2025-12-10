@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Questo video fornisce innanzitutto alcune informazioni sui prerequisiti per la creazione della destinazione basata su Persone, quindi illustra anche come configurare un account integrato (collegamento al partner, ad esempio [!DNL Facebook]). Poi ti guida attraverso la configurazione interna al prodotto della destinazione stessa.
 
->[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/36988/?captions=ita&quality=12)

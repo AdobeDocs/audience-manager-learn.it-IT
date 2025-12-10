@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Passando da Audience Manager a Real-time Customer Data Platform (Real-time CDP), incontrerai alcuni nuovi concetti e pratiche. Gli schemi e XDM rientrano in tale categoria. Questo video spiega questi concetti.
 
->[!VIDEO](https://video.tv.adobe.com/v/332023/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410355/?captions=ita&quality=12&learn=on)
 
 ## Risorse aggiuntive
 

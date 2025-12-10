@@ -28,4 +28,4 @@ Sono evidenziati i seguenti casi d’uso:
 * Implementazione tramite un gestore di tag non Adobe quando si utilizza Adobe Analytics
 * Implementazione tramite un gestore di tag non Adobe quando non si utilizza Adobe Analytics
 
->[!VIDEO](https://video.tv.adobe.com/v/29964/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/39588/?captions=ita&quality=12)

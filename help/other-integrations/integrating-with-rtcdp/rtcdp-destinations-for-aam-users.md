@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Nel passaggio da Audience Manager a Real-time Customer Data Platform (Real-time CDP), è fondamentale conoscere le destinazioni, in modo da sapere come attivare i segmenti di pubblico per i partner di destinazione. Questo video illustra i diversi tipi di destinazione e la loro posizione in Real-time CDP.
 
->[!VIDEO](https://video.tv.adobe.com/v/332203/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410885/?captions=ita&quality=12&learn=on)

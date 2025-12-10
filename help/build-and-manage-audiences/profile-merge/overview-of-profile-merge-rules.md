@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Scopri cosa sono [!UICONTROL Profile Merge Rules], come funzionano e il loro valore per l&#39;addetto marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/28974/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/34898/?captions=ita&quality=12)
