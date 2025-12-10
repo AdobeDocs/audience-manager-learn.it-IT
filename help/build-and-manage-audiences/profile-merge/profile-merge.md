@@ -7,10 +7,10 @@ activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: null
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
-source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -32,4 +32,4 @@ Visualizza i video e i tutorial sulle funzioni di unione profili, incluse le reg
 * [Interpretare i rapporti di Audience Identity](interpret-audience-identity-reporting.md)
 * [Comprendere le metriche tra dispositivi in Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-Questi video possono essere utilizzati insieme alla [documentazione sulle regole di unione profili](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=it)
+Questi video possono essere utilizzati insieme alla [documentazione sulle regole di unione profili](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)

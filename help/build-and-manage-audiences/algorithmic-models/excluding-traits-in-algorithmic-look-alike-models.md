@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 25569.jpg
 kt: 1759
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: 94becb1c-18c3-4fe1-bf24-acae127682da
-source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 In questo video, scopri come e perché escludere caratteristiche specifiche (o gruppi di caratteristiche) da un modello algoritmico (lookalike).
 
->[!VIDEO](https://video.tv.adobe.com/v/326998/?quality=12&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/25569/?quality=12)
 
 I casi di utilizzo per questa funzione includono:
 

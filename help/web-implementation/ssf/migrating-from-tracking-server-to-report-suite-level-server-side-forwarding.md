@@ -8,10 +8,10 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1776
-role: Developer, Data Engineer
+role: Developer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
-source-git-commit: 4adaade180545bcf5f911b7453a7e9939e2ed178
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Se non sei sicuro se [!DNL tracking server forwarding] è abilitato, contatta l&
 
 ## Inoltro lato server a livello di [!UICONTROL Report-suite] {#report-suite-level-server-side-forwarding}
 
-Uno dei principali vantaggi del passaggio all&#39;inoltro [!UICONTROL report suite] dall&#39;inoltro [!UICONTROL tracking server] è la possibilità di utilizzare &quot;Audience Analytics&quot;, ovvero la possibilità di inoltrare nuovamente Audience Manager [!UICONTROL segments] ad Adobe Analytics per l&#39;analisi dettagliata dei segmenti. Questa funzionalità avanzata NON è supportata se si è ancora in fase di inoltro [!UICONTROL tracking server] e non di inoltro [!UICONTROL report suite]. Ulteriori informazioni su Audience Analytics sono disponibili nella [documentazione](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=it).
+Uno dei principali vantaggi del passaggio all&#39;inoltro [!UICONTROL report suite] dall&#39;inoltro [!UICONTROL tracking server] è la possibilità di utilizzare &quot;Audience Analytics&quot;, ovvero la possibilità di inoltrare nuovamente Audience Manager [!UICONTROL segments] ad Adobe Analytics per l&#39;analisi dettagliata dei segmenti. Questa funzionalità avanzata NON è supportata se si è ancora in fase di inoltro [!UICONTROL tracking server] e non di inoltro [!UICONTROL report suite]. Ulteriori informazioni su Audience Analytics sono disponibili nella [documentazione](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 

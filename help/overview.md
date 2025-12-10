@@ -6,10 +6,10 @@ topics: null
 activity: use
 doc-type: overview
 team: Technical Marketing
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: d16c7e1164ee1e63e44d239f8bb3356ce0402246
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Tutorial su Audience Manager
 
-Ti diamo il benvenuto nel sito dei tutorial di Audience Manager. Segui questi tutorial e consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=it) per capire meglio come utilizzare Adobe Audience Manager per creare e attivare tipi di pubblico su qualsiasi canale o dispositivo utilizzando la soluzione leader di Adobe [!DNL data management platform].
+Ti diamo il benvenuto nel sito dei tutorial di Audience Manager. Segui questi tutorial e consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) per capire meglio come utilizzare Adobe Audience Manager per creare e attivare tipi di pubblico su qualsiasi canale o dispositivo utilizzando la soluzione leader di Adobe [!DNL data management platform].
 
 * **Le scelte del personale** evidenziano alcuni dei nostri contenuti preferiti
 * Esplora il contenuto per argomento e sottoargomento nella **navigazione a sinistra**
@@ -51,11 +51,11 @@ Ti diamo il benvenuto nel sito dei tutorial di Audience Manager. Segui questi tu
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=it">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
       <img alt="immagine di anteprima per l’esercitazione ‘Understanding Segments in Real-time CDP’ (Informazioni sui segmenti in Real-time CDP)" src="assets/331901.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=it">
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
     <strong>Segmenti in Real-time CDP per gli utenti di Audience Manager</strong>
     </a>
     </div>
@@ -64,11 +64,11 @@ Ti diamo il benvenuto nel sito dei tutorial di Audience Manager. Segui questi tu
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=it">
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
       <img alt="miniatura per l’esercitazione &quot;Configurare e creare rapporti sulle audience predittive in Audience Manager&quot;" src="assets/33630.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=it">
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
     <strong>Configurazione dei Predictive Audiences in Audience Manager</strong> e generazione di rapporti relativi
     </a>
     </div>

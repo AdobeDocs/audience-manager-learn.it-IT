@@ -7,10 +7,10 @@ activity: implement
 doc-type: article
 team: Technical Marketing
 kt: 2977
-role: Developer, Data Engineer, Architect
+role: Developer
 level: Experienced
 exl-id: 0ff3f123-efb3-4124-bdf9-deac523ef8c9
-source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 1%
@@ -89,13 +89,13 @@ Quando un ID dispositivo globale errato (IDFA, GAID, ecc.) viene inviato in temp
 
 ![immagine di errore](assets/image_4_.png)
 
-Per un elenco dei codici di errore, consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=it#api-and-sdk-code).
+Per un elenco dei codici di errore, consulta la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=en#api-and-sdk-code).
 
 ## Onboarding degli ID dispositivo globali {#onboarding-global-device-ids}
 
-Oltre all&#39;invio in tempo reale degli ID dispositivo globali, puoi anche &quot;[!DNL onboard]&quot; (caricare) dati rispetto agli ID. Questo processo è uguale a quello seguito per l’onboarding dei dati in base agli ID cliente (in genere tramite coppie chiave/valore), ma è sufficiente utilizzare gli ID Data Source appropriati, in modo che i dati vengano assegnati all’ID dispositivo globale. La documentazione sul processo di onboarding è disponibile nella [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=it#implementation-integration-guides). Ricorda di utilizzare l’ID sorgente dati globale, a seconda della piattaforma in uso.
+Oltre all&#39;invio in tempo reale degli ID dispositivo globali, puoi anche &quot;[!DNL onboard]&quot; (caricare) dati rispetto agli ID. Questo processo è uguale a quello seguito per l’onboarding dei dati in base agli ID cliente (in genere tramite coppie chiave/valore), ma è sufficiente utilizzare gli ID Data Source appropriati, in modo che i dati vengano assegnati all’ID dispositivo globale. La documentazione sul processo di onboarding è disponibile nella [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en#implementation-integration-guides). Ricorda di utilizzare l’ID sorgente dati globale, a seconda della piattaforma in uso.
 
-Se tramite il processo di onboarding vengono inviati ID dispositivo globali errati, gli errori verranno visualizzati in [[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=it#reporting).
+Se tramite il processo di onboarding vengono inviati ID dispositivo globali errati, gli errori verranno visualizzati in [[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#reporting).
 
 Di seguito è riportato un esempio di errore che verrebbe generato da tale rapporto:
 

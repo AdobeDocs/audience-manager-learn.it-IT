@@ -8,10 +8,10 @@ activity: implement
 doc-type: tutorial
 team: Technical Marketing
 kt: 1778
-role: Developer, Data Engineer
+role: Developer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
-source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '2333'
 ht-degree: 0%
@@ -74,7 +74,7 @@ I passaggi seguenti descrivono l’implementazione.
 
 Il prerequisito principale per passare all&#39;inoltro lato server è l&#39;implementazione del servizio Experience Cloud ID. Questa operazione è più semplice se utilizzi Experience Platform Launch, nel qual caso installerai semplicemente l’estensione ECID e il resto funzionerà.
 
-Se utilizzi un TMS non Adobe, o se non utilizzi alcun TMS, implementa ECID per eseguire **prima** di qualsiasi altra soluzione Adobe. Per ulteriori dettagli, consulta la [documentazione ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=it). L’unico altro prerequisito è relativo alle versioni del codice, quindi puoi applicare semplicemente le versioni più recenti del codice nei passaggi seguenti.
+Se utilizzi un TMS non Adobe, o se non utilizzi alcun TMS, implementa ECID per eseguire **prima** di qualsiasi altra soluzione Adobe. Per ulteriori dettagli, consulta la [documentazione ECID](https://experienceleague.adobe.com/docs/id-service/using/home.html). L’unico altro prerequisito è relativo alle versioni del codice, quindi puoi applicare semplicemente le versioni più recenti del codice nei passaggi seguenti.
 
 >[!NOTE]
 >
@@ -202,4 +202,4 @@ Se non esegui l&#39;inoltro lato server dei dati da [!DNL Analytics] ad Audience
 
 ![falso successo](assets/falsesuccess.png)
 
-Per ulteriori informazioni sull&#39;inoltro lato server, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=it).
+Per ulteriori informazioni sull&#39;inoltro lato server, consulta la [documentazione](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).

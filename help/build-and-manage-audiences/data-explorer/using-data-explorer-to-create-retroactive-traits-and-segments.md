@@ -8,10 +8,10 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 25169.jpg
 kt: 1762
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 1bb40810-dca9-475f-a312-6e2c1be8149c
-source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
+source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -26,4 +26,4 @@ Questo video mostra come creare caratteristiche retroattive, ad esempio caratter
 
 Finora, quando hai creato le caratteristiche, queste raccoglievano i dati solo andando avanti. Questo significava che si dovevano creare molte caratteristiche nel caso in cui ricevessero traffico o dati. Ora puoi vedere quali coppie chiave/valore ricevono i dati, quindi creare una caratteristica e inserire nuovamente i dati in quella caratteristica. Questo consente di risparmiare tempo ed energia, nonché di mantenere stretta la tassonomia delle caratteristiche, anziché disporre di diverse caratteristiche prive di dati.
 
-Per ulteriori informazioni su [!DNL Data Explorer], visitare [Data Explorer - Panoramica, vantaggi e casi d&#39;uso](https://experiencecloud.adobe.com/resources/help/it_IT/aam/data-explorer.html).
+Per ulteriori informazioni su [!DNL Data Explorer], visitare [Data Explorer - Panoramica, vantaggi e casi d&#39;uso](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
