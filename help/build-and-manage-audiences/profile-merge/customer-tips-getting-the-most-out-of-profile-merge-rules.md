@@ -28,4 +28,4 @@ Varun Kalra è un consulente multisoluzione che lavora presso un Accordant, un S
 * Approfondimento su un caso d’uso di targeting
 * Casi d’uso per varie impostazioni PMR
 
-[Leggi i suggerimenti di Varun nella community Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)
+[Leggi i suggerimenti di Varun nella community Experience League.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248?profile.language=it)
