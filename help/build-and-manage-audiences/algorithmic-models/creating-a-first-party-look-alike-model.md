@@ -32,7 +32,7 @@ ht-degree: 0%
 
 Questo video illustra come creare un modello lookalike di prime parti per individuare più visitatori simili ai tuoi convertitori.
 
->[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/329910/?captions=ita&quality=12)
 
 I casi di utilizzo includono:
 

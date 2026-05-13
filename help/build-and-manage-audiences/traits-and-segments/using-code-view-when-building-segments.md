@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Scopri come utilizzare la vista Codice per definire i segmenti e creare combinazioni complesse di caratteristiche, tra cui l’utilizzo di frequenza e recency.
 
->[!VIDEO](https://video.tv.adobe.com/v/38035/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326800/?captions=ita&quality=12&learn=on)

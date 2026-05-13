@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Scopri come utilizzare la vista Codice per creare nuove caratteristiche o modificare quelle esistenti. La vista Codice è un’alternativa al Generatore di espressioni quando si imposta l’espressione delle caratteristiche.
 
->[!VIDEO](https://video.tv.adobe.com/v/326613/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330144/?captions=ita&quality=12&learn=on)

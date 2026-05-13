@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Uno dei campi importanti da compilare durante la creazione delle caratteristiche è il campo [!UICONTROL Data Source]. Ottieni suggerimenti sulla scelta dell’origine dati giusta per le caratteristiche basate su regole e onboarded.
 
->[!VIDEO](https://video.tv.adobe.com/v/326660/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330136/?captions=ita&quality=12&learn=on)

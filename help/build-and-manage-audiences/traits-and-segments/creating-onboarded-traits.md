@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Scopri suggerimenti per la creazione di caratteristiche onboarded in Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/40267/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328519/?captions=ita&quality=12&learn=on)

@@ -31,4 +31,4 @@ ht-degree: 0%
 
 In questo video, scopri come utilizzare i rapporti generali in Audience Manager per ottenere numeri relativi a caratteristiche e segmenti.
 
->[!VIDEO](https://video.tv.adobe.com/v/328279/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340805/?captions=ita&quality=12&learn=on)

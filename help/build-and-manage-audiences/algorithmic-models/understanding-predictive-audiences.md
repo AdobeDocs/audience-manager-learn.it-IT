@@ -29,6 +29,6 @@ ht-degree: 0%
 
 In questo video, scopri Audience Manager [!UICONTROL Predictive Audiences], i dettagli sul suo funzionamento e i casi d&#39;uso tipici.
 
->[!VIDEO](https://video.tv.adobe.com/v/33629/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/36663/?captions=ita&quality=12)
 
 Per ulteriori informazioni, visita la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html?lang=it).

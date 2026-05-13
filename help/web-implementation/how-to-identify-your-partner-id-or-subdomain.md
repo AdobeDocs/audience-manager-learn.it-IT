@@ -44,7 +44,7 @@ Nel caso in cui si preferisca semplicemente saltare dentro e trovarlo senza guar
 
 Se non riesci a trovarlo rapidamente con quei riferimenti rapidi, il video è un impegno di tempo breve. :)
 
->[!VIDEO](https://video.tv.adobe.com/v/25922/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/327912/?captions=ita&quality=12)
 
 >[!IMPORTANT]
 >

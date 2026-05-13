@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Durante la creazione di segmenti in Audience Manager, puoi aggiungere caratteristiche da varie origini dati. Questo video illustra come eseguire questa operazione e illustra altre impostazioni che è necessario considerare.
 
->[!VIDEO](https://video.tv.adobe.com/v/37713/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327063/?captions=ita&quality=12&learn=on)

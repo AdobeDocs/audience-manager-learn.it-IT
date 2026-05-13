@@ -29,4 +29,4 @@ ht-degree: 0%
 
 In questo video, scopri come impostare i dati come feed di dati privati o pubblici sull’Audience Marketplace, diventando provider di dati di seconde o terze parti.
 
->[!VIDEO](https://video.tv.adobe.com/v/331721/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410861/?captions=ita&quality=12&learn=on)

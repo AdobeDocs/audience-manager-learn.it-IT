@@ -27,7 +27,7 @@ ht-degree: 0%
 
 Scopri lo strumento Audience Manager [!UICONTROL Bulk Management], comunemente denominato &quot;BAAAM&quot;. Scopri come eseguire l’autenticazione in modo da poter utilizzare il foglio BAAAM per creare, modificare ed eliminare caratteristiche e segmenti tramite l’API REST.
 
->[!VIDEO](https://video.tv.adobe.com/v/327692/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340485/?captions=ita&quality=12&learn=on)
 
 >[!IMPORTANT]
 >

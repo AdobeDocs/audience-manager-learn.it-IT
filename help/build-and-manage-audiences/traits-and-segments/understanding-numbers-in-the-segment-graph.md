@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Scopri i numeri visualizzati nel grafico della schermata di informazioni sui segmenti.
 
->[!VIDEO](https://video.tv.adobe.com/v/38041/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326857/?captions=ita&quality=12&learn=on)
