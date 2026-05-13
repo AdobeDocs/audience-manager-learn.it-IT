@@ -7,9 +7,21 @@ kt: 5027
 role: Developer
 level: Experienced
 exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/Nt-232j7k4Gkm-Xu-jHNOpHhl8hFfvXYXLtWSwipQwA
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2:
+  - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '1059'
+source-wordcount: 1148
 ht-degree: 0%
 
 ---
@@ -26,7 +38,7 @@ Per capire come utilizzare IAB TCF, devi prima comprendere la funzionalità [!DN
 
 Ora che hai almeno una conoscenza di base del funzionamento del servizio Opt-in, Audience Manager può intervenire sul supporto di [!DNL IAB Transparency and Consent Framework (TCF)] tramite un plug-in nell&#39;oggetto Opt-in.
 
-Il plug-in Audience Manager per IAB TCF estende le funzionalità di Opt-in e consente ai clienti di AAM di valutare, rispettare e inoltrare le scelte sulla privacy degli utenti ai partner a valle in conformità con IAB TCF. Fornisce uno standard che i titolari del trattamento dei dati (ossia i clienti di Adobe) e i fornitori (DMP, DSP, SSP, Ad Server, ecc.) possono utilizzare per comprendere il consenso nell’intera area del consenso.
+Il plug-in Audience Manager per IAB TCF estende le funzionalità di Opt-in e consente ai clienti di AAM di valutare, rispettare e inoltrare le scelte sulla privacy degli utenti ai partner a valle in conformità con IAB TCF. Fornisce uno standard per i titolari del trattamento dei dati (come cliente Adobe) e i fornitori (DMP, DSP, SSP, Ad Server, ecc.) può utilizzare per comprendere il consenso in tutta l’area del consenso.
 
 ## Abilita IAB TCF {#enabling-iab-tcf}
 

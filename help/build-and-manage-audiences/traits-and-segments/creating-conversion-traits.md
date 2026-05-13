@@ -11,9 +11,16 @@ kt: 1804
 role: User
 level: Beginner
 exl-id: b5156c96-555e-4608-8920-9b7221b1d383,52b489bf-6c11-4c5c-8f29-4513a167f7b8
-source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
+TQID: https://experienceleague.adobe.com/3ubwVnpVkcFiPfVSChUQa6MCdTAzeo9iqBivgiH3rNg
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: 181
 ht-degree: 0%
 
 ---
@@ -22,7 +29,7 @@ ht-degree: 0%
 
 Alcune delle caratteristiche si basano sulle conversioni sul sito. In questo video, scopri come designarli come tali e scopri un suggerimento/gotcha molto importante.
 
->[!VIDEO](https://video.tv.adobe.com/v/329877/?quality=12&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/329877/?captions=ita&quality=12)
 
 Cosa stai cercando di convincere le persone a fare sul tuo sito? Qual è il tuo evento di conversione? Naturalmente, ci sono molte risposte diverse a questa domanda, a seconda del tipo di sito/verticale e degli obiettivi organizzativi. In ogni caso, è comune in AAM creare caratteristiche per i visitatori che hanno soddisfatto tali criteri.
 
