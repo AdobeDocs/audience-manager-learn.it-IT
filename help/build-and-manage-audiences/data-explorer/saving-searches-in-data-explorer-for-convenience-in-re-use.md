@@ -12,9 +12,13 @@ kt: 1763
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: aff58324-52f6-438d-8aae-4f2e8cd16ae0
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/J4AnUoPyYu7zUCA34WyLYExoTlHjcxg7ZFSPbrO0yQ4
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: 129
 ht-degree: 0%
 
 ---
@@ -23,6 +27,6 @@ ht-degree: 0%
 
 In questo video, scopri come configurare una ricerca in [!DNL Data Explorer], eseguirla e quindi salvarla per riutilizzarla in un secondo momento. È inoltre possibile inserire la ricerca salvata nel dashboard in modo che sia immediatamente disponibile quando si accede all&#39;app [!UICONTROL Signals].
 
->[!VIDEO](https://video.tv.adobe.com/v/36352/?captions=ita&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
-Per ulteriori informazioni su [!UICONTROL Data Explorer], visitare [Data Explorer - Panoramica, vantaggi e casi d&#39;uso](https://experiencecloud.adobe.com/resources/help/it_IT/aam/data-explorer.html).
+Per ulteriori informazioni su [!UICONTROL Data Explorer], visitare [Data Explorer - Panoramica, vantaggi e casi d&#39;uso](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).

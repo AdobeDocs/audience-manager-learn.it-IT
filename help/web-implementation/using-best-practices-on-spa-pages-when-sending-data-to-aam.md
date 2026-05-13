@@ -11,9 +11,15 @@ topic: SPA
 role: Developer
 level: Experienced
 exl-id: 99ec723a-dd56-4355-a29f-bd6d2356b402
-source-git-commit: d47848370e7bf7617f2b706041c911161a6479cd
+TQID: https://experienceleague.adobe.com/ohlywv3vjuOMj2nD6Kv1OlcG-hcumfj-qzRCcdup9Ew
+product_v2: id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+feature_v2: id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+subfeature_v2: id: f0bb1502-9f96-4d5e-a596-06876fe34ea0
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: 593
 ht-degree: 0%
 
 ---
@@ -56,7 +62,7 @@ Se vai al sito demo elencato sopra e osservi la sorgente della pagina, vedrai:
 * Il livello dati si trova nella parte superiore della pagina, prima della chiamata ai tag di Platform
 * Il JavaScript nel collegamento simulato dell&#39;applicazione a pagina singola cambia [!UICONTROL Data Layer], quindi chiama i tag di Platform (la chiamata `_satellite.track()`). Se si utilizzano eventi personalizzati di JavaScript invece di [!UICONTROL Direct Call Rule], la lezione è la stessa. Modificare [!DNL data layer], quindi chiamare i tag di Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/326997/?captions=ita&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23322/?quality=12)
 
 ## Risorse aggiuntive {#additional-resources}
 
