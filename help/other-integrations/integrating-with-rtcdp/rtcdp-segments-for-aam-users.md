@@ -38,8 +38,8 @@ Nel passaggio da Audience Manager a Real-time Customer Data Platform, è utile c
 
 Di seguito sono riportati alcuni video e tutorial che possono aiutarti a scoprire Real-time Customer Data Platform. Puoi trovare altri video e tutorial su questi argomenti per ulteriori informazioni su Platform.
 
-* [Creare uno schema tramite l’Editor di schema](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=en#getting-started)
-* [Creare set di dati](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=en#permissions-required)
-* [Creare segmenti](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=en#segments)
-* [Creare segmenti dinamici](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-dynamic-segments.html?lang=en#segments)
-* [Creare segmenti con più entità](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-multi-entity-segments.html?lang=en#segments)
+* [Creare uno schema tramite l’Editor di schema](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/create-schema-ui.html?lang=it#getting-started)
+* [Creare set di dati](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/create-datasets.html?lang=it#permissions-required)
+* [Creare segmenti](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=it#segments)
+* [Creare segmenti dinamici](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-dynamic-segments.html?lang=it#segments)
+* [Creare segmenti con più entità](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-multi-entity-segments.html?lang=it#segments)

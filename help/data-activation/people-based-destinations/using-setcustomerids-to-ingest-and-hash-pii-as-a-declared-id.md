@@ -33,4 +33,4 @@ Questo video spiega perché e come utilizzare il metodo `setCustomerIDs()` di Ex
 
 >[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 
-Per ulteriori informazioni, visita la [documentazione](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html).
+Per ulteriori informazioni, visita la [documentazione](https://experienceleague.adobe.com/docs/id-service/using/reference/hashing-support.html?lang=it).
