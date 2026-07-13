@@ -1,7 +1,7 @@
 ---
 source-git-commit: db81b5d2dd24476b42fcee6081d4b2736a01c666
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '443'
 ht-degree: 0%
 
 ---
@@ -9,11 +9,17 @@ ht-degree: 0%
 
 ## Il nostro impegno
 
-Allo scopo di promuovere un ambiente aperto e accogliente, in qualità di gestori e collaboratori ci impegniamo a rendere la partecipazione al progetto e alla community un’esperienza priva di molestie per tutti, a prescindere da età, corporatura, disabilità, etnia, identità ed espressione di genere, livello di esperienza, nazionalità, aspetto personale, razza, religione o identità e orientamento sessuali.
+Al fine di promuovere un ambiente aperto e accogliente,
+i collaboratori e i responsabili si impegnano a partecipare al nostro progetto e
+la nostra community è un’esperienza priva di molestie per tutti, indipendentemente dall’età, dal corpo
+dimensioni, disabilità, etnia, identità ed espressione di genere, livello di esperienza,
+nazionalità, aspetto personale, razza, religione o identità sessuale e
+Orientamento.
 
 ## I nostri standard
 
-Di seguito sono riportati alcuni esempi di comportamenti che contribuiscono alla creazione di un ambiente positivo:
+Esempi di comportamenti che contribuiscono alla creazione di un ambiente positivo
+include:
 
 * Utilizzare un linguaggio amichevole e inclusivo
 * Rispettare esperienze e punti di vista diversi
@@ -23,29 +29,49 @@ Di seguito sono riportati alcuni esempi di comportamenti che contribuiscono alla
 
 Alcuni esempi di comportamenti non accettabili da parte dei partecipanti:
 
-* Utilizzo di linguaggio o immagini a sfondo sessuale e attenzioni o proposte sessuali indesiderate
+* L’uso di linguaggio o immagini a sfondo sessuale e attenzioni sessuali indesiderate o
+anticipi
 * Trolling, commenti offensivi/sprezzanti e attacchi personali o politici
 * Molestie pubbliche o private
-* Pubblicazione di informazioni private di altri utenti, ad esempio un indirizzo fisico o elettronico, senza autorizzazione esplicita
-* Altri comportamenti che potrebbero essere ragionevolmente considerati inopportuni in un contesto professionale
+* Pubblicazione di informazioni private altrui, ad esempio in formato fisico o elettronico
+senza autorizzazione esplicita
+* Altri comportamenti che potrebbero essere ragionevolmente considerati inopportuni in un
+ambiente professionale
 
 ## Le nostre responsabilità
 
-I responsabili del progetto hanno la responsabilità di chiarire gli standard di comportamento accettabile e di adottare azioni correttive appropriate ed eque in risposta a qualsiasi caso di comportamento inaccettabile.
+I responsabili del progetto hanno la responsabilità di chiarire gli standard di
+e sono tenuti ad adottare misure correttive appropriate ed eque in
+risposta a qualsiasi istanza di comportamento inaccettabile.
 
-I responsabili del progetto hanno il diritto e la responsabilità di rimuovere, modificare o rifiutare commenti, commit, codice, modifiche wiki, problemi e altri contributi non allineati al presente Codice di condotta o di interdire temporaneamente o definitivamente qualsiasi collaboratore per altri comportamenti che ritengono inadeguati, minacciosi, offensivi o dannosi.
+I responsabili del progetto hanno il diritto e la responsabilità di rimuovere, modificare o
+rifiuta commenti, commit, codice, modifiche wiki, problemi e altri contributi
+che non sono allineati al presente Codice di condotta, o di interdire temporaneamente o
+permanentemente qualsiasi collaboratore per altri comportamenti che ritengono inopportuni,
+minaccioso, offensivo o dannoso.
 
-## Portata
+## Ambito
 
-Il presente Codice di condotta si applica sia all’interno degli spazi del progetto che negli spazi pubblici quando un utente rappresenta il progetto o la sua community. Esempi di rappresentazione di un progetto o di una community includono l’utilizzo di un indirizzo e-mail ufficiale del progetto, la pubblicazione tramite un account di social media ufficiale o la funzione di rappresentante designato a un evento online o offline. La rappresentazione di un progetto può essere ulteriormente definita e chiarita dai responsabili del progetto.
+Il presente Codice di condotta si applica sia all’interno degli spazi del progetto che negli spazi pubblici
+quando un utente rappresenta il progetto o la relativa community. Esempi di
+rappresentare un progetto o una community tramite un messaggio e-mail ufficiale del progetto
+tramite un account ufficiale di social media o in qualità di
+rappresentante a un evento online o offline. La rappresentanza di un progetto può essere
+ulteriormente definiti e chiariti dai responsabili del progetto.
 
 ## Applicazione
 
-I casi di comportamenti offensivi, molesti o in generale inaccettabili si possono segnalare contattando il team di progetto all’indirizzo Grp-opensourceoffice@adobe.com. Tutti i reclami saranno esaminati e analizzati e daranno luogo a una risposta ritenuta necessaria e appropriata alle circostanze. Il team del progetto è obbligato a mantenere la riservatezza rispetto a chi denuncia un incidente.
-Ulteriori dettagli sui criteri di applicazione specifici possono essere pubblicati separatamente.
+I casi di comportamenti offensivi, molesti o altrimenti inaccettabili possono essere
+segnalato contattando il team del progetto all’indirizzo Grp-opensourceoffice@adobe.com. Tutte
+i reclami saranno esaminati e analizzati e daranno luogo a una risposta che
+sia ritenuta necessaria e adeguata alle circostanze. Il team del progetto è
+obbligato a mantenere la riservatezza nei confronti di chi denuncia un incidente.Ulteriori dettagli sui criteri di applicazione specifici possono essere pubblicati separatamente.
 
-I gestori dei progetti che non seguono o non applicano il Codice di condotta in buona fede possono trovarsi di fronte a ripercussioni temporanee o permanenti determinate da altri membri della direzione del progetto.
+Responsabili del progetto che non seguono o non applicano correttamente il Codice di condotta
+la fede può avere ripercussioni temporanee o permanenti determinate da altri
+membri della direzione del progetto.
 
 ## Attribuzione
 
-Il presente Codice di condotta è adattato dal [Convenzione collaboratore](https://contributor-covenant.org), versione 1.4, disponibile all’indirizzo [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)
+Questo Codice di condotta è stato adattato dal [Contributor Covenant](https://contributor-covenant.org), versione 1.4,
+disponibile in [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)
