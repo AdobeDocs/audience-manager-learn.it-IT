@@ -2,14 +2,9 @@
 user-guide-title: Tutorial su Adobe Audience Manager
 user-guide-description: Una raccolta di video e tutorial su Adobe Analytics.
 breadcrumb-title: Tutorial su Audience Manager
-solution: Audience Manager
-product_v2:
-  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
-usetq: true
-type: Tutorial
-source-git-commit: af2ccf1847942e9aa1ed1e0f534ead635cd1f055
+source-git-commit: 948124cc2eff5d2f622aea353027909ee1e562d1
 workflow-type: tm+mt
-source-wordcount: 1089
+source-wordcount: '1089'
 ht-degree: 2%
 
 ---
