@@ -2,7 +2,7 @@
 title: Video ed esercitazioni sulle destinazioni basate su persone
 description: Scopri le destinazioni basate su persone in Audience Manager. Scopri come applicare la segmentazione ai dati online e offline per creare segmenti di pubblico in base a identificatori con hash, come indirizzi e-mail e altro ancora.
 feature: People-based Destinations
-topics: null
+topics:
 activity: setup
 doc-type: feature video
 team: Technical Marketing
@@ -10,22 +10,27 @@ kt: 5207
 role: Admin
 level: Beginner
 exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
-TQID: https://experienceleague.adobe.com/EyqsE9RBoHVvG5bqNsAG9-3O7X148VWUx7OwTx8h3hA
+TQID: 'https://experienceleague.adobe.com/EyqsE9RBoHVvG5bqNsAG9-3O7X148VWUx7OwTx8h3hA'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: c814092e-2730-45e8-a12d-e084529f52cb
+    internal-label: Destinations
+subfeature_v2:
+  - id: d7221605-094b-45a5-891f-f37bd58c0055
+    internal-label: People based Destinations
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Beginner
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 216
+source-wordcount: '216'
 ht-degree: 0%
-
 ---
-
 # Video ed esercitazioni sulle destinazioni basate su persone
 
 Le destinazioni basate su persone consentono di applicare la segmentazione ai dati online e offline per creare segmenti di pubblico in base a identificatori con hash, come indirizzi e-mail. Quindi puoi inviare questi segmenti a piattaforme social come [!DNL Facebook] o [!DNL LinkedIn], dove puoi indirizzarli al tuo pubblico.
@@ -42,4 +47,4 @@ Questa sezione contiene video e tutorial su argomenti relativi alle destinazioni
 * [Creare e configurare destinazioni basate su persone](create-and-configure-people-based-destinations.md)
 * [Comprendere e configurare la destinazione LinkedIn basata sulle persone](understanding-and-configuring-the-linkedin-pbd.md)
 
-Questi video possono essere utilizzati insieme alla [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=it).
+Questi video possono essere utilizzati insieme alla [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
