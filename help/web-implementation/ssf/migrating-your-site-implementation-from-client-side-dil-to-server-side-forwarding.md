@@ -3,7 +3,7 @@ title: Migrazione dell’implementazione Audience Manager del sito da DIL lato c
 description: Scopri come migrare l’implementazione di Audience Manager (AAM) per il tuo sito da DIL lato client a inoltro lato server. Questa esercitazione si applica se disponi sia di AAM che di Adobe Analytics e se invii hit dalla pagina ad AAM utilizzando il codice di DIL (Data Integration Library), nonché se invii hit dalla pagina ad Adobe Analytics.
 product: audience manager
 feature: Adobe Analytics Integration
-topics: null
+topics:
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
@@ -11,34 +11,47 @@ kt: 1778
 role: Developer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
-TQID: https://experienceleague.adobe.com/Ot1-VgP7kGzBnYguaSGlH0BVwThc1yyA2GH31gnYnFs
+TQID: 'https://experienceleague.adobe.com/Ot1-VgP7kGzBnYguaSGlH0BVwThc1yyA2GH31gnYnFs'
 product_v2:
   - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
 feature_v2:
   - id: a8b0238e-1d43-4679-a3b4-5ba1bad83baa
+    internal-label: Implementation
+  - id: b82b475d-1e7d-46c6-9172-1f9c73004b11
+    internal-label: Integrations
 subfeature_v2:
   - id: d7e573ad-4eda-46ec-90c4-239e75362af9
+    internal-label: DIL implementation
+  - id: e5dfa5ae-9082-4711-a658-d981a49c8dea
+    internal-label: Analytics integration
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+    internal-label: Data integration
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 3152e8fc51e0e06c90c17dce0aa203a27995e88d
+    internal-label: Personalization
+source-git-commit: 7bd4c343895d4f0718fc9e02cb0d6dd86bbb1883
 workflow-type: tm+mt
-source-wordcount: 2419
+source-wordcount: '2419'
 ht-degree: 0%
-
 ---
-
 # Migrazione dell’implementazione Audience Manager del sito da DIL lato client a inoltro lato server {#migrating-your-site-s-aam-implementation-from-client-side-dil-to-server-side-forwarding}
 
-Questo tutorial è applicabile se disponi sia di Adobe Audience Manager (AAM) che di Adobe Analytics e stai inviando un hit dalla pagina ad AAM utilizzando il codice DIL ([!DNL Data Integration Library]), nonché un hit dalla pagina ad Adobe Analytics. Poiché si dispone di entrambe queste soluzioni e poiché fanno entrambe parte di Adobe Experience Cloud, è possibile seguire la best practice per attivare l&#39;inoltro lato server, che consente ai server di raccolta dati [!DNL Analytics] di inoltrare i dati di analisi del sito in tempo reale ad Audience Manager, invece di inviare un hit aggiuntivo dalla pagina ad AAM tramite il codice lato client. Questo tutorial illustra i passaggi necessari per passare dall’implementazione lato client di DIL precedente al più recente metodo di inoltro lato server.
+Questo tutorial è applicabile se disponi sia di Adobe Audience Manager (AAM) che di Adobe Analytics e stai inviando un hit dalla pagina ad AAM utilizzando il codice DIL ([!DNL Data Integration Library]), nonché un hit dalla pagina ad Adobe Analytics. Poiché si dispone di entrambe queste soluzioni e poiché fanno entrambe parte di Adobe Experience Cloud, è possibile seguire la best practice per attivare l&#39;inoltro lato server, che consente ai server di raccolta dati [!DNL Analytics] di inoltrare i dati di analisi del sito in tempo reale ad Audience Manager, anziché inviare un hit aggiuntivo dalla pagina ad AAM tramite il codice lato client. Questo tutorial illustra i passaggi necessari per passare dall’implementazione lato client di DIL precedente al più recente metodo di inoltro lato server.
 
 ## Lato client (DIL) e lato server {#client-side-dil-vs-server-side}
 
@@ -130,7 +143,7 @@ Finora in questo tutorial abbiamo dedicato tutto il nostro tempo al passaggio de
 
 >[!VIDEO](https://video.tv.adobe.com/v/26355/?quality-12)
 
-**NOTA:** Come indicato nel video, ricorda che saranno necessarie fino a 4 ore per consentire la completa implementazione dell&#39;inoltro sul backend di Experience Cloud.
+**NOTA:** Come indicato nel video, ricorda che saranno necessarie fino a 4 ore per consentire la completa implementazione dell&#39;inoltro nel backend di Experience Cloud.
 
 ## Tempistica {#timing}
 
