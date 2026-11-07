@@ -46,4 +46,4 @@ ht-degree: 0%
 
 In questa sessione vi spiegheremo cos&#39;è un DMP e vi mostreremo alcuni case study reali dove i clienti hanno visto straordinari ritorni sui loro investimenti, da acquisti di supporti più efficienti a conversioni significativamente aumentate.
 
->[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507559/?captions=ita&quality=12)

@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Utilizza lo strumento BAAAM in Audience Manager per creare e gestire i segmenti in blocco, inserendoli in cartelle, aggiungendo caratteristiche alla regola del segmento, mappandoli a destinazioni e così via.
 
->[!VIDEO](https://video.tv.adobe.com/v/39148/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507500/?captions=ita&quality=12&learn=on)
 
 >[!IMPORTANT]
 >
