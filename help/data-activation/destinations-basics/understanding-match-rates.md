@@ -41,6 +41,6 @@ ht-degree: 0%
 
 Questo video ti aiuta a comprendere le percentuali di corrispondenza in Adobe Audience Manager, cosa sono e come vengono calcolate. Scoprirai anche alcune best practice e cosa può causare una bassa percentuale di corrispondenza.
 
->[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507453/?captions=ita&quality=12)
 
 Per ulteriori informazioni, visita la [documentazione](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=it).

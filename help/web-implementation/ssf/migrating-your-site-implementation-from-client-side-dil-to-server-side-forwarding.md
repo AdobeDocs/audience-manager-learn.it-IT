@@ -141,7 +141,7 @@ Guarda il video seguente per scoprire come spostare le opzioni di implementazion
 
 Finora in questo tutorial abbiamo dedicato tutto il nostro tempo al passaggio del codice dal codice DIL lato client all’inoltro lato server. Va bene, perché è la parte più difficile. Questa sezione, anche se è molto semplice, è importante quanto l’aggiornamento del codice. Questo video illustra come riflettere lo switch che consente l’effettivo inoltro di dati da Analytics ad Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/26355/?quality-12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507523/?captions=ita&quality-12)
 
 **NOTA:** Come indicato nel video, ricorda che saranno necessarie fino a 4 ore per consentire la completa implementazione dell&#39;inoltro nel backend di Experience Cloud.
 
@@ -222,7 +222,7 @@ Il modo principale per verificare che l’inoltro lato server sia in esecuzione,
 
 Se non esegui l&#39;inoltro lato server dei dati da [!DNL Analytics] ad Audience Manager, allora non esiste alcuna risposta al beacon [!DNL Analytics] (oltre a un pixel 2x2). Tuttavia, se esegui l&#39;inoltro lato server, vi sono elementi che puoi verificare nella richiesta e nella risposta di [!DNL Analytics] che ti informeranno che [!DNL Analytics] sta comunicando correttamente con Audience Manager, inoltrando l&#39;hit e ricevendo una risposta.
 
->[!VIDEO](https://video.tv.adobe.com/v/26359/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507423/?captions=ita&quality=12)
 
 >[!WARNING]
 >

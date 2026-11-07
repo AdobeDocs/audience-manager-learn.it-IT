@@ -35,4 +35,4 @@ ht-degree: 0%
 
 Scopri come creare le strutture di cartelle che contengono le caratteristiche in Audience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/40266/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507676/?captions=ita&quality=12&learn=on)
